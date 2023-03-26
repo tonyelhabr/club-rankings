@@ -10,7 +10,7 @@ from pathlib import PurePath
 REPO_NAME = 'club-rankings'
 RELEASE_TAG = 'club-rankings'
 RELEASE_DESCRIPTION = 'Opta and 538 club rankings'
-GITHUB_ACCESS_TOKEN_ENV_VAR_NAME = 'GITHUB_ACCESS_TOKEN'
+GITHUB_ACCESS_TOKEN_ENV_VAR_NAME = 'CLUB_RANKINGS_TOKEN'
 
 #%%
 def create_or_update_release(file_path, repo_name, tag='v1.0.0', description='Description of release'):

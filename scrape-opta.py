@@ -3,7 +3,6 @@ import time
 import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
-from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 import chromedriver_autoinstaller
 from pathlib import Path
@@ -12,18 +11,17 @@ from helpers import create_or_update_club_rankings_release
 
 ## TODO: Figure out a way to auto-detect this from the HTML text 
 ##   between the last 2 buttons on the page
-MAX_PAGE_NUM = 3 # 137
+MAX_PAGE_NUM = 2 # 137
 
 #%%
 chromedriver_autoinstaller.install()
 chrome_options = webdriver.ChromeOptions()    
 options = [
-  "--headless",
+  '--headless',
 ]
 
 for option in options:
   chrome_options.add_argument(option)
-
 
 driver = webdriver.Chrome(options = chrome_options)
 
@@ -64,6 +62,7 @@ while page_num <= MAX_PAGE_NUM:
 
 
 #%%
+print('Done scraping Opta club rankings.')
 driver.quit()
 
 #%%
@@ -85,9 +84,6 @@ file_path = data_dir / 'opta-club-rankings.csv'
 df.to_csv(file_path, index=False)
 
 #%%
-df
-#%%
 create_or_update_club_rankings_release(file_path)
-
 
 #%%
