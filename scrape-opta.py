@@ -26,8 +26,6 @@ for option in options:
 driver = webdriver.Chrome(options = chrome_options)
 
 #%%
-# driver = webdriver.Chrome(executable_path=chromedriver_path, options=chrome_options)
-
 url = 'https://dataviz.theanalyst.com/opta-power-rankings/'
 driver.get(url)
 time.sleep(3)
@@ -64,6 +62,7 @@ while page_num <= MAX_PAGE_NUM:
 #%%
 print('Done scraping Opta club rankings.')
 driver.quit()
+time.sleep(1)
 
 #%%
 current_time = datetime.now()

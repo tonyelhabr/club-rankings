@@ -19,6 +19,7 @@ def create_or_update_release(file_path, repo_name, tag='v1.0.0', description='De
     raise Exception('`file_path` should be a `PurePath`')
   
   access_token = os.getenv(GITHUB_ACCESS_TOKEN_ENV_VAR_NAME)
+  print(f'Access token length: {len(access_token)}')
   gh = Github(access_token)
   repo = gh.get_user().get_repo(repo_name)
   
@@ -52,7 +53,7 @@ def create_or_update_release(file_path, repo_name, tag='v1.0.0', description='De
         response = requests.get(existing_data_file.browser_download_url)
         existing_data = pd.read_csv(StringIO(response.text))
         new_data = pd.read_csv(file_path)
-        combined_data = existing_data.append(new_data, ignore_index=True)
+        combined_data = pd.concat([existing_data, new_data], ignore_index=True)
         combined_data.to_csv(file_path, index=False)
         existing_data_file.delete_asset()
       else:
