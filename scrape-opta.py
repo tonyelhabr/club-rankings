@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
+import chromedriver_autoinstaller
 from pathlib import Path
 from datetime import datetime
 from helpers import create_or_update_club_rankings_release
@@ -14,11 +15,20 @@ from helpers import create_or_update_club_rankings_release
 MAX_PAGE_NUM = 3 # 137
 
 #%%
-chromedriver_path = 'chromedriver.exe'
-chrome_options = Options()
-chrome_options.add_argument('--headless')
+chromedriver_autoinstaller.install()
+chrome_options = webdriver.ChromeOptions()    
+options = [
+  "--headless",
+]
+
+for option in options:
+  chrome_options.add_argument(option)
+
+
+driver = webdriver.Chrome(options = chrome_options)
+
 #%%
-driver = webdriver.Chrome(executable_path=chromedriver_path, options=chrome_options)
+# driver = webdriver.Chrome(executable_path=chromedriver_path, options=chrome_options)
 
 url = 'https://dataviz.theanalyst.com/opta-power-rankings/'
 driver.get(url)

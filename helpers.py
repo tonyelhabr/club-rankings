@@ -5,7 +5,7 @@ from github.GithubException import GithubException
 import pandas as pd
 import requests
 from io import StringIO
-from pathlib import Path, PurePath
+from pathlib import PurePath
 
 REPO_NAME = 'club-rankings'
 RELEASE_TAG = 'club-rankings'
@@ -13,7 +13,11 @@ RELEASE_DESCRIPTION = 'Opta and 538 club rankings'
 GITHUB_ACCESS_TOKEN_ENV_VAR_NAME = 'GITHUB_ACCESS_TOKEN'
 
 #%%
-def create_or_update_release(file_path: Path, repo_name: str, tag: str = 'v1.0.0', description: str = 'Description of release') -> str:
+def create_or_update_release(file_path, repo_name, tag='v1.0.0', description='Description of release'):
+  
+  if not isinstance(file_path, PurePath):
+    raise Exception('`file_path` should be a `PurePath`')
+  
   access_token = os.getenv(GITHUB_ACCESS_TOKEN_ENV_VAR_NAME)
   gh = Github(access_token)
   repo = gh.get_user().get_repo(repo_name)

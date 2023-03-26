@@ -1,0 +1,22 @@
+name: Run scraper
+
+on:
+  workflow_dispatch:
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+      - run: pip install -r requirements.txt 
+      - name: Remove previous chrome instances on runner 
+        run: sudo apt purge google-chrome-stable
+      - name: Install xvfb
+        run: sudo apt-get install xvfb
+      - name: Run the script
+        run: python scrape-opta.py
+
