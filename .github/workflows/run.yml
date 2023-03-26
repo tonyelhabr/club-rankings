@@ -18,8 +18,6 @@ jobs:
       - run: pip install -r requirements.txt 
       - name: Remove previous chrome instances on runner 
         run: sudo apt purge google-chrome-stable
-      - name: Install xvfb
-        run: sudo apt-get install xvfb
       - name: Run the script
         run: python scrape-opta.py
 
