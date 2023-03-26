@@ -7,7 +7,7 @@ from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.common.by import By
 from pathlib import Path
 from datetime import datetime
-from helpers import create_or_update_release
+from helpers import create_or_update_club_rankings_release
 
 MAX_PAGE_NUM = 3 # 137
 
@@ -62,14 +62,20 @@ today = current_time.strftime('%Y-%m-%d')
 df = pd.DataFrame(rows, columns=headers)
 df['date'] = today
 df['updated_at'] = formatted_timestamp
+
+#%%
 data_dir = Path('data')
 data_dir.mkdir(exist_ok=True)
 
 file_path = data_dir / 'opta-club-rankings.csv'
+
+#%%
 df.to_csv(file_path, index=False)
 
 #%%
-create_or_update_release(file_path=file_path)
+df
 #%%
-create_or_update_release?
+create_or_update_club_rankings_release(file_path)
+
+
 #%%
