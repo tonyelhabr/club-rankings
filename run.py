@@ -9,6 +9,8 @@ from pathlib import Path
 from datetime import datetime
 from helpers import create_or_update_club_rankings_release
 
+## TODO: Figure out a way to auto-detect this from the HTML text 
+##   between the last 2 buttons on the page
 MAX_PAGE_NUM = 3 # 137
 
 #%%
