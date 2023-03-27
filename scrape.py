@@ -11,7 +11,7 @@ from helpers import create_or_update_club_rankings_release
 
 ## TODO: Figure out a way to auto-detect this from the HTML text 
 ##   between the last 2 buttons on the page
-MAX_OPTA_PAGE_NUM = 2 # 137
+MAX_OPTA_PAGE_NUM = 137
 
 #%%
 chromedriver_autoinstaller.install()
