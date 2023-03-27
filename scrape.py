@@ -86,3 +86,15 @@ df.to_csv(file_path, index=False)
 create_or_update_club_rankings_release(file_path)
 
 #%%
+df = pd.read_csv('https://projects.fivethirtyeight.com/soccer-api/club/spi_global_rankings.csv')
+
+#%%
+df['date'] = today
+df['updated_at'] = formatted_timestamp
+file_path = data_dir / 'fivethirtyeight-club-rankings.csv'
+df.to_csv(file_path, index=False)
+#%%
+
+#%%
+create_or_update_club_rankings_release(file_path)
+#%%

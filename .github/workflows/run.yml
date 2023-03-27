@@ -1,5 +1,5 @@
 ## Reference: https://github.com/MarketingPipeline/Python-Selenium-Action
-name: Run scraper
+name: Run club rankings scraper
 
 on:
   workflow_dispatch:
@@ -19,5 +19,5 @@ jobs:
       - name: Remove previous chrome instances on runner 
         run: sudo apt purge google-chrome-stable
       - name: Run the script
-        run: python scrape-opta.py
+        run: python scrape.py
 
