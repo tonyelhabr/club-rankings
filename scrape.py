@@ -11,7 +11,7 @@ from helpers import create_or_update_club_rankings_release
 
 ## TODO: Figure out a way to auto-detect this from the HTML text 
 ##   between the last 2 buttons on the page
-MAX_PAGE_NUM = 2 # 137
+MAX_OPTA_PAGE_NUM = 2 # 137
 
 #%%
 chromedriver_autoinstaller.install()
@@ -39,7 +39,7 @@ headers = [th.text.strip() for th in table.find_all('th')]
 rows = []
 page_num = 1
 
-while page_num <= MAX_PAGE_NUM:
+while page_num <= MAX_OPTA_PAGE_NUM:
   print(f'Scraping page {page_num}')
   
   soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -50,14 +50,13 @@ while page_num <= MAX_PAGE_NUM:
     if row:
       rows.append(row)
   
-  if page_num < MAX_PAGE_NUM:
+  if page_num < MAX_OPTA_PAGE_NUM:
     buttons = driver.find_elements(by = By.CSS_SELECTOR, value='button')
     last_button = buttons[-1]
     last_button.click()
       
   time.sleep(2)
   page_num += 1
-
 
 #%%
 print('Done scraping Opta club rankings.')
@@ -74,27 +73,19 @@ df['date'] = today
 df['updated_at'] = formatted_timestamp
 
 #%%
-data_dir = Path('data')
-data_dir.mkdir(exist_ok=True)
-
-file_path = data_dir / 'opta-club-rankings.csv'
-
-#%%
-df.to_csv(file_path, index=False)
-
-#%%
-create_or_update_club_rankings_release(file_path)
+create_or_update_club_rankings_release(
+  df=df,
+  file_name='opta-club-rankings.csv'
+)
 
 #%%
 df = pd.read_csv('https://projects.fivethirtyeight.com/soccer-api/club/spi_global_rankings.csv')
-
-#%%
 df['date'] = today
 df['updated_at'] = formatted_timestamp
-file_path = data_dir / 'fivethirtyeight-club-rankings.csv'
-df.to_csv(file_path, index=False)
-#%%
 
 #%%
-create_or_update_club_rankings_release(file_path)
+create_or_update_club_rankings_release(
+  df=df,
+  file_name='fivethirtyeight-club-rankings.csv'
+)
 #%%
