@@ -35,3 +35,4 @@ FiveThirtyEight source fields:
 ## TODO
 
 - Create a mapping of team names.
+- Refactor using more modular approach.
