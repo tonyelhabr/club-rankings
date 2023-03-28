@@ -31,7 +31,7 @@ def create_or_update_release(df, file_name, repo_name, tag='v1.0.0', description
     try:
       release = repo.create_git_release(
         tag=tag, 
-        name=file_name, 
+        name=tag, 
         message=description
       )
       print(f'New release created: {release.tag_name}')
