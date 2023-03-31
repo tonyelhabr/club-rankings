@@ -34,6 +34,7 @@ time.sleep(3)
 soup = BeautifulSoup(driver.page_source, 'html.parser')
 table = soup.find('table')
 headers = [th.text.strip() for th in table.find_all('th')]
+headers = headers + ['id']
 
 #%%
 rows = []
@@ -47,6 +48,12 @@ while page_num <= MAX_OPTA_PAGE_NUM:
 
   for tr in table.find_all('tr'):
     row = [td.text.strip() for td in tr.find_all('td')]
+    img = tr.select_one('img')
+    if img is None:
+      img_id = ''
+    else:
+      img_id = img['src'].split('&id=')[-1]
+    row.append(img_id)
     if row:
       rows.append(row)
   
