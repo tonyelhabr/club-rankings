@@ -53,8 +53,8 @@ rankings <- c(
   )
 
 mapping <- read_csv('team-mapping.csv', na = '') |> 
-  # filter(!is.na(id_opta)) |> ## NAs for id_opta only for Chinese Super League
-  filter(league_538 != 'Chinese Super League') |> 
+  filter(!is.na(id_opta)) |> ## NAs for id_opta only for Chinese Super League
+  # filter(league_538 != 'Chinese Super League') |> 
   select(
     league_538, ## don't technically need this for joining since team_538 is unique
     team_538,
@@ -101,3 +101,23 @@ compared_latest_rankings <- reformatted_latest_rankings |>
     names_prefix = 'rank_'
   ) |> 
   arrange(rank_538)
+
+compared_latest_rankings |> 
+  filter(
+    rank_538 <= 100
+  ) |> 
+  mutate(
+    drank = rank_538 - rank_opta
+  ) |> 
+  arrange(desc(abs(drank))) |> 
+  slice_max(abs(drank), n = 20, with_ties = FALSE)
+
+compared_latest_rankings |> 
+  filter(
+    rank_opta <= 100
+  ) |> 
+  mutate(
+    drank = rank_538 - rank_opta
+  ) |> 
+  arrange(desc(abs(drank))) |> 
+  slice_max(abs(drank), n = 20, with_ties = FALSE)
