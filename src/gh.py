@@ -1,4 +1,3 @@
-#%%
 import os
 from github import Github
 from github.GithubException import GithubException
@@ -6,18 +5,19 @@ import pandas as pd
 import requests
 from io import StringIO
 
-REPO_NAME = 'club-rankings'
-RELEASE_TAG = 'club-rankings'
-RELEASE_DESCRIPTION = 'Opta and 538 club rankings'
-GITHUB_ACCESS_TOKEN_ENV_VAR_NAME = 'CLUB_RANKINGS_TOKEN'
-
-#%%
-def create_or_update_release(df, file_name, repo_name, tag='v1.0.0', description='Description of release'):
+def create_or_update_release(
+  df, 
+  file_name, 
+  repo_name, 
+  env_var_name='GITHUB_ACCESS_TOKEN', 
+  tag='v1.0.0',
+  description='Description of release'
+):
   
   if not isinstance(df, pd.DataFrame):
     raise Exception('`df` should be a `DataFrame`')
   
-  access_token = os.getenv(GITHUB_ACCESS_TOKEN_ENV_VAR_NAME)
+  access_token = os.getenv(env_var_name)
   gh = Github(access_token)
   repo = gh.get_user().get_repo(repo_name)
   
@@ -75,13 +75,3 @@ def create_or_update_release(df, file_name, repo_name, tag='v1.0.0', description
     print(f'File uploaded: {asset.name}')
   except GithubException as e:
     print(f'Error uploading file: {e}')
-
-def create_or_update_club_rankings_release(df, file_name, repo_name=REPO_NAME, tag=RELEASE_TAG, description=RELEASE_DESCRIPTION):
-  create_or_update_release(
-    df=df,
-    file_name=file_name,
-    repo_name=repo_name,
-    tag=tag,
-    description=description
-  )
-#%%
