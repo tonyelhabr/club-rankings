@@ -111,7 +111,7 @@ write_club_rankings <- function(x, name, tag = 'club-rankings') {
   }
   write_csv(compared_rankings, path, na = '')
   pb_upload(
-    path,
+    temp_path,
     repo = 'tonyelhabr/club-rankings',
     tag = 'club-rankings'
   )
