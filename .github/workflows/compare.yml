@@ -4,8 +4,8 @@ on:
   schedule:
     - cron: '45 10 * * *'
   workflow_dispatch:
-  
-job:
+
+jobs:
   compare:
     runs-on: ${{ matrix.config.os }}
     name: ${{ matrix.config.os }} (${{ matrix.config.r }})
