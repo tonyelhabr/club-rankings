@@ -3,6 +3,7 @@ library(purrr)
 library(readr)
 library(dplyr)
 library(tidyr)
+library(piggyback)
 
 rankings <- c(
   'opta',
@@ -61,10 +62,8 @@ mapping <- read_csv('team-mapping.csv', na = '') |>
     id_opta
   )
 
-latest_rankings <- rankings |> filter(date == '2023-04-01')
-
-reformatted_latest_rankings <- bind_rows(
-  latest_rankings |> 
+reformatted_rankings <- bind_rows(
+  rankings |> 
     filter(source == 'fivethirtyeight') |> 
     inner_join(
       mapping,
@@ -74,7 +73,7 @@ reformatted_latest_rankings <- bind_rows(
       id = id_opta,
       .keep = 'unused'
     ),
-  latest_rankings |> 
+  rankings |> 
     filter(source == 'opta') |> 
     inner_join(
       mapping,
@@ -87,37 +86,38 @@ reformatted_latest_rankings <- bind_rows(
     )
 ) |> 
   transmute(
-    team, ## 538
-    league, ## 538
-    # id, ## opta
+    date,
+    team_538 = team,
+    league_538 = league,
+    id_opta = id,
     across(source, ~ifelse(.x == 'fivethirtyeight', '538', .x)),
-    rank
+    rank,
+    rating
   )
 
-compared_latest_rankings <- reformatted_latest_rankings |> 
+compared_rankings <- reformatted_rankings |> 
   pivot_wider(
     names_from = source,
-    values_from = rank,
-    names_prefix = 'rank_'
+    values_from = c(rank, rating)
   ) |> 
-  arrange(rank_538)
+  arrange(date, league_538, team_538)
 
-compared_latest_rankings |> 
-  filter(
-    rank_538 <= 100
-  ) |> 
-  mutate(
-    drank = rank_538 - rank_opta
-  ) |> 
-  arrange(desc(abs(drank))) |> 
-  slice_max(abs(drank), n = 20, with_ties = FALSE)
+write_club_rankings <- function(x, name, tag = 'club-rankings') {
+  temp_dir <- tempdir(check = TRUE)
+  basename <- sprintf('%s.csv', name)
+  temp_path <- file.path(temp_dir, basename)
+  f <- function(x, path) {
+    write_csv(x, path, na = '')
+  }
+  write_csv(compared_rankings, path, na = '')
+  pb_upload(
+    path,
+    repo = 'tonyelhabr/club-rankings',
+    tag = 'club-rankings'
+  )
+}
 
-compared_latest_rankings |> 
-  filter(
-    rank_opta <= 100
-  ) |> 
-  mutate(
-    drank = rank_538 - rank_opta
-  ) |> 
-  arrange(desc(abs(drank))) |> 
-  slice_max(abs(drank), n = 20, with_ties = FALSE)
+write_club_rankings(
+  compared_rankings,
+  name = 'compared-rankings'
+)
