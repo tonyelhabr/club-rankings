@@ -29,11 +29,6 @@ jobs:
         with:
           cache-version: 1
           extra-packages: |
-            any::rlang
-            any::purrr
-            any::readr
-            any::dplyr
-            any::tidyr
             ropensci/piggyback
       - name: Compare rankings
         run: Rscript -e 'source(file.path("R", "compare.R"), echo = TRUE)'
