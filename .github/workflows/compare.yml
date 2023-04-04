@@ -9,8 +9,7 @@ jobs:
   compare:
     runs-on: macOS-latest
     env:
-      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-      CLUB_RANKINGS_TOKEN: ${{ secrets.CLUB_RANKINGS_TOKEN }}
+      GITHUB_PAT: ${{ secrets.CLUB_RANKINGS_TOKEN }}
       RENV_PATHS_ROOT: ~/.local/share/renv
     steps:
       - name: Checkout
