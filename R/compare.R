@@ -58,6 +58,7 @@ mapping <- read_csv('team-mapping.csv', na = '') |>
   # filter(league_538 != 'Chinese Super League') |> 
   select(
     league_538, ## don't technically need this for joining since team_538 is unique
+    league_alternative,
     team_538,
     id_opta
   )
@@ -89,6 +90,7 @@ reformatted_rankings <- bind_rows(
     date,
     team_538 = team,
     league_538 = league,
+    league_alternative,
     id_opta = id,
     across(source, ~ifelse(.x == 'fivethirtyeight', '538', .x)),
     rank,
