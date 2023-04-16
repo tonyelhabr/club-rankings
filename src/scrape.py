@@ -18,3 +18,12 @@ create_or_update_club_rankings_release(
   df=ft8_df,
   file_name='fivethirtyeight-club-rankings.csv'
 )
+
+clubelo_date_str = datetime.strftime(datetime.today(), "%Y-%m-%d")
+clubelo_url = f'http://api.clubelo.com/{clubelo_date_str}'
+clubelo_df = pd.read_csv(clubelo_url)
+clubelo_df = add_timestamp_cols(clubelo_df, current_time)
+create_or_update_club_rankings_release(
+  df=clubelo_df,
+  file_name='clubelo-club-rankings.csv'
+)
