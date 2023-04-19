@@ -108,9 +108,6 @@ write_club_rankings <- function(x, name, tag = 'club-rankings') {
   temp_dir <- tempdir(check = TRUE)
   basename <- sprintf('%s.csv', name)
   temp_path <- file.path(temp_dir, basename)
-  f <- function(x, path) {
-    write_csv(x, path, na = '')
-  }
   write_csv(compared_rankings, temp_path, na = '')
   pb_upload(
     temp_path,
