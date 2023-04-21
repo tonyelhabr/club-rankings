@@ -8,7 +8,8 @@ import chromedriver_autoinstaller
 ## TODO: Figure out a way to auto-detect this from the HTML text 
 ##   between the last 2 buttons on the page
 MAX_OPTA_PAGE_NUM = 137
-
+OPTA_URL = 'https://dataviz.theanalyst.com/opta-power-rankings/'
+  
 def scrape_opta_club_rankings():
   chromedriver_autoinstaller.install()
   chrome_options = webdriver.ChromeOptions()    
@@ -21,7 +22,6 @@ def scrape_opta_club_rankings():
 
   driver = webdriver.Chrome(options = chrome_options)
 
-  OPTA_URL = 'https://dataviz.theanalyst.com/opta-power-rankings/'
   driver.get(OPTA_URL)
   time.sleep(3)
 
