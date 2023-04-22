@@ -104,11 +104,11 @@ compared_rankings <- reformatted_rankings |>
   ) |> 
   arrange(date, league_538, team_538)
 
-write_club_rankings <- function(x, name, tag = 'club-rankings') {
+write_club_rankings_release <- function(x, name) {
   temp_dir <- tempdir(check = TRUE)
   basename <- sprintf('%s.csv', name)
   temp_path <- file.path(temp_dir, basename)
-  write_csv(compared_rankings, temp_path, na = '')
+  write_csv(x, temp_path, na = '')
   pb_upload(
     temp_path,
     repo = 'tonyelhabr/club-rankings',
@@ -116,7 +116,7 @@ write_club_rankings <- function(x, name, tag = 'club-rankings') {
   )
 }
 
-write_club_rankings(
+write_club_rankings_release(
   compared_rankings,
   name = 'compared-rankings'
 )
