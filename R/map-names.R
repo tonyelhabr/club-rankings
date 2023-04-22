@@ -18,7 +18,7 @@ latest_rankings_clubelo <- read_csv(
     league_clubelo = sprintf('%s-%s', Country, Level),
     rank_clubelo = row_number(desc(Elo))
   )
-latest_rankings_clubelo |> distinct(league_clubelo) |> arrange(league_clubelo) -> z
+latest_rankings_clubelo |> distinct(league_clubelo) |> arrange(league_clubelo) |> write_csv('leagues-clubelo.csv')
 
 latest_rankings_opta <- read_csv(
   'https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/opta-club-rankings.csv'
@@ -29,7 +29,6 @@ latest_compared_rankings <- read_csv(
   'https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/compared-rankings.csv'
 ) |> 
   slice_max(date, n = 1, with_ties = TRUE)
-latest_compared_rankings |> distinct(league_538)
 
 league_mapping <- read_csv('league-mapping.csv')
 
@@ -73,12 +72,15 @@ latest_club_rankings <- bind_rows(
     filter(source1 == source2) |> 
     select(-source2) |> 
     rename(
-      source = source1,
-      league = league_538
+      source = source1
     ),
   latest_rankings_clubelo |> 
+    inner_join(
+      league_mapping
+    ) |> 
     transmute(
       league = league_clubelo,
+      league_538,
       source = 'clubelo',
       team = team_clubelo,
       rank = rank_clubelo
