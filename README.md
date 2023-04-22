@@ -1,13 +1,18 @@
+[![scrape](https://github.com/tonyelhabr/actions/workflows/scrape.yml/badge.svg)](https://github.com/tonyelhabr/actions/workflows/scrape.yml)
+[![compare](https://github.com/tonyelhabr/actions/workflows/compare.yml/badge.svg)](https://github.com/tonyelhabr/actions/workflows/compare.yml)
+![club-rankings downloads](https://img.shields.io/github/downloads/tonyelhabr/total)
+
 ## Introduction
 
-This repo scrapes and stores the club rankings published by [Opta Analyst](https://theanalyst.com/na/2023/03/who-are-the-best-football-team-in-the-world-opta-power-rankings/) and [FiveThirtyEight](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings/). The data is automatically pushed to [Github releases](https://github.com/tonyelhabr/club-rankings/releases).
+This repo scrapes and stores the club rankings published by [Opta Analyst](https://theanalyst.com/na/2023/03/who-are-the-best-football-team-in-the-world-opta-power-rankings/), [FiveThirtyEight](https://projects.fivethirtyeight.com/soccer-predictions/global-), and [Club Elo](http://clubelo.com/). The data is automatically pushed to [Github releases](https://github.com/tonyelhabr/releases).
 
 | Source | Download |
 | :----- | :------- |
-| Opta Analyst | [Download](https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/opta-club-rankings.csv) |
-| FiveThirtyEight | [Download](https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/fivethirtyeight-club-rankings.csv) |
+| Opta Analyst | [Download](https://github.com/tonyelhabr/releases/download/opta-club-rankings.csv) |
+| FiveThirtyEight | [Download](https://github.com/tonyelhabr/releases/download/fivethirtyeight-club-rankings.csv) |
+| Club Elo | [Download](https://github.com/tonyelhabr/releases/download/clubelo-club-rankings.csv) |
 
-In addition, I've added [a release file](https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/compared-rankings.csv) that compares the two table (using [a mapping file](https://github.com/tonyelhabr/club-rankings/blob/main/team-mapping.csv) that I manually created).
+In addition, I've added [a release file](https://github.com/tonyelhabr/releases/download/compared-rankings.csv) that compares the two table (using [a mapping file](https://github.com/tonyelhabr/blob/main/team-mapping.csv) that I manually created).
 
 ## Data Dictionary
 
@@ -37,6 +42,16 @@ FiveThirtyEight source fields:
 * `def`
 * `spi`
 
+Clube Elo source fields:
+
+* `Rank`
+* `Club`
+* `Country`
+* `Level`: league tier, i.e. 1 for top league in country
+* `Elo`
+* `From`: starting date from which elo is constant, presumably the day after a match
+* `To`: end data to which elo is constant, presumably the current date or the last day prior to a match day
+
 ### Comparison
 
 Comparison file fields:
@@ -51,4 +66,4 @@ Comparison file fields:
 * `rating_538`
 * `rating_opta`
 
-Note that the only Opta teams (over 13k) that can be mapped to FiveThirtyEight teams (around 650) are included in the comparison file.
+Note that the only Opta teams (over 13k) that can be mapped to FiveThirtyEight teams (around 650) are included in the comparison file. (Mapping Club Elo teams is a work in progress.)
