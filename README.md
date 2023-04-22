@@ -1,3 +1,8 @@
+<!-- badges: start -->
+[![scrape](https://github.com/tonyelhabr/club-rankings/actions/workflows/scrape.yml/badge.svg)](https://github.com/tonyelhabr/club-rankings/actions/workflows/scrape.yml)
+[![compare](https://github.com/tonyelhabr/club-rankings/actions/workflows/compare.yml/badge.svg)](https://github.com/tonyelhabr/club-rankings/actions/workflows/compare.yml)
+![club-rankings downloads](https://img.shields.io/github/downloads/tonyelhabr/club-rankings/total)
+<!-- badges: end -->
 ## Introduction
 
 This repo scrapes and stores the club rankings published by [Opta Analyst](https://theanalyst.com/na/2023/03/who-are-the-best-football-team-in-the-world-opta-power-rankings/), [FiveThirtyEight](https://projects.fivethirtyeight.com/soccer-predictions/global-), and [Club Elo](http://clubelo.com/). The data is automatically pushed to [Github releases](https://github.com/tonyelhabr/releases).
