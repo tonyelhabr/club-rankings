@@ -8,9 +8,9 @@ This repo scrapes and stores the club rankings published by [Opta Analyst](https
 
 | Source | Download |
 | :----- | :------- |
-| Opta Analyst | [Download](https://github.com/tonyelhabr/releases/download/opta-club-rankings.csv) |
-| FiveThirtyEight | [Download](https://github.com/tonyelhabr/releases/download/fivethirtyeight-club-rankings.csv) |
-| Club Elo | [Download](https://github.com/tonyelhabr/releases/download/clubelo-club-rankings.csv) |
+| Opta Analyst | [Download](https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/opta-club-rankings.csv) |
+| FiveThirtyEight | [Download](https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/fivethirtyeight-club-rankings.csv) |
+| Club Elo | [Download](https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/clubelo-club-rankings.csv) |
 
 In addition, I've added [a release file](https://github.com/tonyelhabr/releases/download/compared-rankings.csv) that compares the two table (using [a mapping file](https://github.com/tonyelhabr/blob/main/team-mapping.csv) that I manually created).
 
