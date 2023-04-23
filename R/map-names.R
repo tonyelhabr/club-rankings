@@ -10,7 +10,7 @@ library(tibble)
 library(tidystringdist)
 
 latest_rankings_clubelo <- read_csv(
- 'https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/clubelo-club-rankings.csv',
+  'https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/clubelo-club-rankings.csv',
 ) |> 
   slice_max(updated_at, n = 1, with_ties = TRUE) |> 
   transmute(
@@ -52,34 +52,41 @@ base <- latest_compared_rankings |>
     rank_538,
     rank_opta
   )
+# base |> 
+#   pivot_longer(
+#     -c(league_538, starts_with('rank')), 
+#     names_to = 'source1',
+#     values_to = 'team'
+#   ) |> 
+#   pivot_longer(
+#     -c(league_538, source1, team), 
+#     names_to = 'source2',
+#     values_to = 'rank'
+#   ) |> 
+#   mutate(
+#     across(source1, \(x) str_remove(x, 'team_')),
+#     across(source2, \(x) str_remove(x, 'rank_'))
+#   ) |> 
+#   filter(source1 == source2) |> 
+#   select(-source2) |> 
+#   rename(
+#     source = source1
+#   )
 
 latest_club_rankings <- bind_rows(
   base |> 
-    pivot_longer(
-      -c(league_538, starts_with('rank')), 
-      names_to = 'source1',
-      values_to = 'team'
-    ) |> 
-    pivot_longer(
-      -c(league_538, source1, team), 
-      names_to = 'source2',
-      values_to = 'rank'
-    ) |> 
-    mutate(
-      across(source1, \(x) str_remove(x, 'team_')),
-      across(source2, \(x) str_remove(x, 'rank_'))
-    ) |> 
-    filter(source1 == source2) |> 
-    select(-source2) |> 
-    rename(
-      source = source1
+    transmute(
+      league_538,
+      source = '538',
+      team = team_538,
+      rank = rank_538
     ),
   latest_rankings_clubelo |> 
     inner_join(
       league_mapping
     ) |> 
     transmute(
-      league = league_clubelo,
+      # league = league_clubelo,
       league_538,
       source = 'clubelo',
       team = team_clubelo,
@@ -138,7 +145,7 @@ clean_team_names_538 <- clean_team_names |>
   transmute(
     new_team,
     rank_538 = rank,
-    league_538 = league,
+    league_538,
     team_538 = team,
     new_team_538 = new_team
   )
@@ -147,6 +154,7 @@ clean_team_names_clubelo <- clean_team_names |>
   filter(source == 'clubelo') |> 
   transmute(
     new_team,
+    league_538,
     rank_clubelo = rank,
     team_clubelo = team,
     new_team_clubelo = new_team
@@ -162,11 +170,16 @@ init_matches_538 <- clean_team_names_538 |>
       mutate(
         is_exact = TRUE
       ),
-    by = join_by(new_team)
+    by = join_by(new_team, league_538)
   ) |> 
   mutate(
     across(is_exact, \(x) replace_na(x, FALSE))
-  )
+  ) |> 
+  semi_join(
+    league_mapping |> filter(!is.na(league_538)) |> select(league_538),
+    by = join_by(league_538)
+  ) |> 
+  arrange(league_538, team_538)
 
 init_matches_538 |> write_csv('matches.csv', na = '')
 
@@ -178,27 +191,36 @@ candidates_clubelo <- clean_team_names_clubelo |>
     exact_matches |> select(new_team),
     by = join_by(new_team)
   ) |> 
-  select(team_clubelo, new_team_clubelo) |> 
+  select(team_clubelo, new_team_clubelo, league_538) |> 
+  ## add rank
   inner_join(
     latest_club_rankings |> 
       filter(source == 'clubelo') |> 
-      select(team_clubelo = team, rank_clubelo = rank),
+      select(team_clubelo = team, rank_clubelo = rank,),
     by = join_by(team_clubelo)
   ) |> 
-  cross_join(
+  ## only search in leagues where we can find a match
+  semi_join(
+    league_mapping |> filter(!is.na(league_538)) |> select(league_538),
+    by = join_by(league_538)
+  ) |> 
+  full_join(
     names_to_matches_538 |> 
       select(
         team_538,
-        new_team_538
-      )
+        new_team_538,
+        league_538
+      ),
+    by = join_by(league_538),
+    relationship = "many-to-many"
   ) |> 
+  ## add rank
   inner_join(
     latest_club_rankings |> 
       filter(source == '538') |> 
       select(team_538 = team, rank_538 = rank),
     by = join_by(team_538)
-  ) |> 
-  select(-c(team_clubelo, team_538))
+  )
 
 string_dists <- candidates_clubelo |> 
   tidystringdist::tidy_stringdist(
@@ -232,7 +254,8 @@ agreeing_closest_strings <- inner_join(
   inverse_closest_strings |> select(new_team_clubelo, new_team_538),
   by = join_by(new_team_clubelo , new_team_538)
 ) |> 
-  arrange(rank_538)
+  arrange(league_538, rank_538)
+agreeing_closest_strings
 
 closest_ranks <- string_dists |> 
   group_by(new_team_538) |> 
@@ -241,6 +264,48 @@ closest_ranks <- string_dists |>
   ungroup()
 closest_ranks
 
+matches <- bind_rows(
+  init_matches_538 |> 
+    filter(is_exact),
+  init_matches_538 |> 
+    filter(!is_exact) |> 
+    select(new_team, rank_538, league_538, team_538, new_team_538) |> 
+    left_join(
+      agreeing_closest_strings |> 
+        transmute(rank_538, league_538, team_538, new_team_538, rank_clubelo, team_clubelo, new_team_clubelo, is_exact = FALSE),
+      by = join_by(rank_538, league_538, team_538, new_team_538)
+    )
+) |> 
+  arrange(league_538, team_538)
+
+write_csv(matches, 'matches.csv', na = '')
+
+# league <- 'Austrian T-Mobile Bundesliga'
+# league <- 'Barclays Premier League'
+# league <- 'Dutch Eredivisie'
+# league <- 'English League Championship'
+# league <- 'German Bundesliga'
+# league <- 'Greek Super League'
+# league <- 'Norwegian Tippeligaen'
+# league <- 'Russian Premier Liga'
+# league <- 'Spanish Primera Division'
+# league <- 'Spanish Segunda Division'
+# league <- 'Swiss Raiffeisen Super League'
+league <- 'Turkish Turkcell Super Lig'
+clean_team_names_clubelo |>
+  filter(league_538 == .env$league) |> 
+  anti_join(
+    matches |> 
+      filter(league_538 == .env$league) |> 
+      filter(!is.na(rank_clubelo)) |> 
+      select(new_team_clubelo),
+    by = join_by(new_team_clubelo)
+  ) # |> 
+  # arrange(team_clubelo) |> 
+  # select(rank_clubelo, team_clubelo) |> 
+  # clipr::write_clip()
+
+latest_club_rankings
 
 team <- 'Paris Saint Germain'
 abbrv <- str_remove(team, '[a-z]{2,3}\\s+|\\s+[a-z]{2,3}') |> str_squish() |> str_sub(1, 5)
