@@ -7,6 +7,8 @@
 
 This repo scrapes and stores the club rankings published by [Opta Analyst](https://theanalyst.com/na/2023/03/who-are-the-best-football-team-in-the-world-opta-power-rankings/), [FiveThirtyEight](https://projects.fivethirtyeight.com/soccer-predictions/global-), and [Club Elo](http://clubelo.com/). The data is automatically pushed to [Github releases](https://github.com/tonyelhabr/releases).
 
+## Data
+
 | Source | Download |
 | :----- | :------- |
 | Opta Analyst | [Download](https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/opta-club-rankings.csv) |
@@ -15,9 +17,9 @@ This repo scrapes and stores the club rankings published by [Opta Analyst](https
 
 In addition, I've added [a release file](https://github.com/tonyelhabr/releases/download/compared-rankings.csv) that compares the two table (using [a mapping file](https://github.com/tonyelhabr/blob/main/team-mapping.csv) that I manually created).
 
-## Data Dictionary
+### Dictionary
 
-### Club Rankings
+#### Club Rankings
 
 Each file has the columns from the raw source, plus two additional ones
 
@@ -43,7 +45,7 @@ FiveThirtyEight source fields:
 * `def`
 * `spi`
 
-Clube Elo source fields:
+Club Elo source fields:
 
 * `Rank`
 * `Club`
@@ -53,15 +55,17 @@ Clube Elo source fields:
 * `From`: starting date from which elo is constant, presumably the day after a match
 * `To`: end data to which elo is constant, presumably the current date or the last day prior to a match day
 
-### Comparison
+#### Comparison
 
 Comparison file fields:
 
 * `date`
 * `league_538`
-* `league_alternative`: manually defined league name where 538 lists "UEFA Champions League", "UEFA Europa Conference League", or "UEFA Europa League"
+* `league_538_alternative`: manually defined league name where 538 lists "UEFA Champions League", "UEFA Europa Conference League", or "UEFA Europa League"
+* `league_clubelo`
 * `team_538`
 * `id_opta`
+* `team_clubelo`
 * `rank_538`
 * `rank_opta`
 * `rating_538`
