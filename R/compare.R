@@ -94,19 +94,12 @@ compared_rankings <- mapping |>
     by = join_by(league_clubelo, team_clubelo, date)
   )
 
-write_club_rankings_release <- function(x, name) {
-  temp_dir <- tempdir(check = TRUE)
-  basename <- sprintf('%s.csv', name)
-  temp_path <- file.path(temp_dir, basename)
-  write_csv(x, temp_path, na = '')
-  pb_upload(
-    temp_path,
-    repo = 'tonyelhabr/club-rankings',
-    tag = 'club-rankings'
-  )
-}
-
-write_club_rankings_release(
-  compared_rankings,
-  name = 'compared-rankings'
+## Upload
+temp_dir <- tempdir(check = TRUE)
+temp_path <- file.path(temp_dir, 'compared-rankings.csv')
+write_csv(x, temp_path, na = '')
+pb_upload(
+  temp_path,
+  repo = 'tonyelhabr/club-rankings',
+  tag = 'club-rankings'
 )
