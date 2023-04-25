@@ -97,7 +97,7 @@ compared_rankings <- mapping |>
 ## Upload
 temp_dir <- tempdir(check = TRUE)
 temp_path <- file.path(temp_dir, 'compared-rankings.csv')
-write_csv(x, temp_path, na = '')
+write_csv(compared_rankings, temp_path, na = '')
 pb_upload(
   temp_path,
   repo = 'tonyelhabr/club-rankings',
