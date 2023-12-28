@@ -31,29 +31,18 @@ slice_latest_rankings_on_date <- function(df) {
 
 opta_rankings <- read_rankings_release('opta') |> 
   select_ranking_cols(
-    rank_opta = rank,
+    id_opta = id,
     team_opta = team,
     rating_opta = rating,
-    id_opta = id
-  ) |> 
-  slice_latest_rankings_on_date()
-
-fivethirtyeight_rankings <- read_rankings_release('fivethirtyeight') |> 
-  select_ranking_cols(
-    rank_538 = rank,
-    team_538 = name,
-    rating_538 = spi,
-    league_538 = league
+    rank_opta = rank
   ) |> 
   slice_latest_rankings_on_date()
 
 clubelo_rankings <- read_rankings_release('clubelo') |> 
   select_ranking_cols(
-    rank_clubelo = Rank,
     team_clubelo = Club,
-    country_clubelo = Country,
-    level_clubelo = Level,
-    rating_clubelo = Elo
+    rating_clubelo = Elo,
+    rank_clubelo = Rank
   ) |> 
   group_by(date, updated_at) |> 
   mutate(
@@ -61,37 +50,43 @@ clubelo_rankings <- read_rankings_release('clubelo') |>
     .before = 1
   ) |> 
   ungroup() |> 
-  mutate(
-    league_clubelo = sprintf('%s-%s', country_clubelo, level_clubelo),
-    .keep = 'unused',
-    .before = team_clubelo
-  ) |> 
   slice_latest_rankings_on_date()
 
 mapping <- read_csv('team-mapping.csv') |> 
-  filter(!is.na(id_opta)) |> ## NAs for id_opta only for Chinese Super League
-  # filter(league_538 != 'Chinese Super League') |> 
+  filter(n_opta == 1) |> ## TODO: fix some amibuous teams with n_opta > 1L
   select(
-    league_538, ## don't technically need this for joining since team_538 is unique
-    league_538_alternative,
-    league_clubelo,
-    team_538,
+    country,
     id_opta,
+    team_opta,
     team_clubelo
   )
 
 compared_rankings <- mapping |> 
   left_join(
-    fivethirtyeight_rankings,
-    by = join_by(league_538, team_538)
-  ) |> 
-  left_join(
-    opta_rankings,
-    by = join_by(id_opta, date)
+    opta_rankings |> 
+      select(
+        date,
+        id_opta,
+        rank_opta,
+        rating_opta
+      ),
+    by = join_by(id_opta),
+    relationship = 'many-to-many'
   ) |> 
   left_join(
     clubelo_rankings,
-    by = join_by(league_clubelo, team_clubelo, date)
+    by = join_by(team_clubelo, date)
+  ) |> 
+  select(
+    date,
+    country,
+    id_opta,
+    team_opta,
+    team_clubelo,
+    rating_opta,
+    rating_clubelo,
+    rank_opta,
+    rank_clubelo
   )
 
 ## Upload
