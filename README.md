@@ -65,7 +65,7 @@ Note that Opta teams are used as the "base" for the comparisons. Only Club Elo t
 
 ## Example usage
 
-```{r}
+```r
 library(readr)
 library(dplyr)
 compared_rankings <- read_csv('https://github.com/tonyelhabr/club-rankings/releases/download/club-rankings/compared-rankings.csv')
