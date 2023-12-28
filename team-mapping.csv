@@ -1,642 +1,616 @@
-league_538,league_538_alternative,league_clubelo,team_538,id_opta,team_clubelo,is_exact_538_to_opta,is_exact_538_to_clubelo,can_match_538_to_opta,can_match_538_to_clubelo
-Argentina Primera Division,,,Argentinos Juniors,7tev5pifn8hdy4vlts0coha1b,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Arsenal Sarandi,ancihw39hzlr6vjfgl8jsihe1,,FALSE,,TRUE,FALSE
-Argentina Primera Division,,,Atlético Tucumán,6u0o1i04y2mnw2avru97sn970,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Banfield,3lbqswe4h5wyrayjt580zmujx,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Barracas Central,8bh6iyg42ta2y8mgkkgd2hy6o,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Belgrano Cordoba,2biw4all5ru5xiorgyqbevwr1,,FALSE,,TRUE,FALSE
-Argentina Primera Division,,,Boca Juniors,ciqt22ivoc48zj62detdyh1mm,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,CA Independiente,ag3u5yhvyaxwtebl9xp5e2vaa,,FALSE,,TRUE,FALSE
-Argentina Primera Division,,,Central Córdoba Santiago del Estero,1x5i9dl7uyrh5o2th8ore61e6,,FALSE,,TRUE,FALSE
-Argentina Primera Division,,,Colon Santa Fe,64a7qygl90q6k3319f29fwduo,,FALSE,,TRUE,FALSE
-Argentina Primera Division,,,Defensa y Justicia,1n4ioqcbh1hemy9ezzu6v86n7,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Estudiantes,91j32z6ga16tjj140ss2i24mt,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Gimnasia La Plata,1rio0xlpk4s2ttmchsqjs6eik,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Godoy Cruz,1we2nqwg18sjn6cevduuapbkf,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Huracán,3rw8ouixzsh3x8dgy8ifev925,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Instituto,2zjoq67ogz8lmaoesxkubxhp6,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Lanus,19ij50t7wklqr3w2bye5r7tp4,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Newell's Old Boys,3oj3koph7uf63y1f9zr8r7ylo,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Platense,d08q2rnrt7mss1axbuu595tyu,,FALSE,,TRUE,FALSE
-Argentina Primera Division,,,Racing Club,39acfbxikh52o6y9opfb0q0nb,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,River Plate,115foion8jwrvp2e7xif675kx,,FALSE,,TRUE,FALSE
-Argentina Primera Division,,,Rosario Central,e8ma1lonj51sqmwy00mwnw1ke,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,San Lorenzo,2sciofe2reang4qdncm1bihgr,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Sarmiento,1tsjuhn8qeikaj837w2ybx77n,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Talleres de Córdoba,ajeh0pq7dtphe0btz4wc4xb0g,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Tigre,cs3122cdx3g2nviltzfilmz5c,,TRUE,,TRUE,FALSE
-Argentina Primera Division,,,Union Santa Fe,5o5wtxn03ktvxcdrpxht5aqdp,,FALSE,,TRUE,FALSE
-Argentina Primera Division,,,Velez Sarsfield,a3kgi895b7b3ecfzmoyxbw2pl,,TRUE,,TRUE,FALSE
-Australian A-League,,,Adelaide United,6lezh5aazy0xca1800e5dqxwl,,TRUE,,TRUE,FALSE
-Australian A-League,,,Brisbane Roar,v046no35g7ebk8lytdjmfb43,,TRUE,,TRUE,FALSE
-Australian A-League,,,Central Coast Mariners,c4ygb6mnh53kpl2mpxe52l8jw,,TRUE,,TRUE,FALSE
-Australian A-League,,,Macarthur FC,7jv344gvcvgqg7oeuc9u554dm,,FALSE,,TRUE,FALSE
-Australian A-League,,,Melbourne City,c33jm806py6adse5wv9wx6ch1,,TRUE,,TRUE,FALSE
-Australian A-League,,,Melbourne Victory,9xmhnv6im8h7c9e17oqvcx8gl,,TRUE,,TRUE,FALSE
-Australian A-League,,,Newcastle Jets,chu9blh367xs3yumct5tqto2q,,TRUE,,TRUE,FALSE
-Australian A-League,,,Perth Glory,cuj4qahgk4idsme4dg8clk6gw,,TRUE,,TRUE,FALSE
-Australian A-League,,,Sydney FC,38ui5tfi8anjuh533emny2tz1,,FALSE,,TRUE,FALSE
-Australian A-League,,,Wellington Phoenix,6j4xzc2g1eeafo6v1f38d4x22,,TRUE,,TRUE,FALSE
-Australian A-League,,,Western Sydney FC,6h553bwfqkoxayuv80uikkn42,,FALSE,,TRUE,FALSE
-Australian A-League,,,Western United,7p460lrzt1kmp4rsofqa47eqy,,TRUE,,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,Austria Lustenau,9ws0f9wf5r8mdigwo0xpzv06v,Austria Wien,TRUE,FALSE,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,Cashpoint SC Rheindorf Altach,3lcvs7iiylixau81d0lruwsak,,FALSE,,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,FC Salzburg,bonj6qc7po4anunhydmjmi6g5,Salzburg,FALSE,FALSE,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,FK Austria Vienna,84gk4ytf9vr8oml51cqyit78w,,FALSE,,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,Hartberg,1vli32f09v65mc3vc6yh34z9f,Hartberg,TRUE,TRUE,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,LASK Linz,boxkkgnpn38ywao4kzu7dx58h,LASK,FALSE,FALSE,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,Rapid Vienna,eljjik2vvlpy6d649mgwwivam,Rapid Wien,FALSE,FALSE,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,SK Austria Klagenfurt,8fw92w95mzdtzm4vxhsglfopu,Klagenfurt,FALSE,FALSE,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,SK Sturm Graz,4lauow63npvttmvxgh2koqb0r,Sturm Graz,FALSE,FALSE,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,SV Ried,do3l4dhs0ooog6se728jxc06z,Ried,FALSE,FALSE,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,WSG Swarovski Wattens,7uh2y9tk3j8dk6zinfu38pygi,,FALSE,,TRUE,FALSE
-Austrian T-Mobile Bundesliga,,AUT-1,Wolfsberger AC,9pn4d8sj6pmqidrhhlvev437k,Wolfsberg,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,AFC Bournemouth,1pse9ta7a45pi2w2grjim70ge,Bournemouth,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Arsenal,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal,FALSE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Aston Villa,b496gs285it6bheuikox6z9mj,Aston Villa,FALSE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Brentford,7yx5dqhhphyvfisohikodajhv,Brentford,TRUE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Brighton and Hove Albion,e5p0ehyguld7egzhiedpdnc3w,Brighton,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Chelsea,9q0arba2kbnywth8bkxlhgmdr,Chelsea,TRUE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Crystal Palace,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace,TRUE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Everton,ehd2iemqmschhj2ec0vayztzz,Everton,FALSE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Fulham,hzqh7z0mdl3v7gwete66syxp,Fulham,TRUE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Leeds United,48gk2hpqtsl6p9sx9kjhaydq4,Leeds,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Leicester City,avxknfz4f6ob0rv9dbnxdzde0,Leicester,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Liverpool,c8h9bw1l82s06h77xxrelzhur,Liverpool,FALSE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Manchester City,a3nyxabgsqlnqfkeg41m6tnpp,Man City,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Manchester United,6eqit8ye8aomdsrrq0hk3v7gh,Man United,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Newcastle,7vn2i2kd35zuetw6b38gw9jsz,Newcastle,FALSE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Nottingham Forest,1qtaiy11gswx327s0vkibf70n,Forest,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Southampton,d5ydtvt96bv7fq04yqm2w2632,Southampton,TRUE,TRUE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Tottenham Hotspur,22doj4sgsocqpxw45h607udje,Tottenham,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,West Ham United,4txjdaqveermfryvbfrr4taf7,West Ham,TRUE,FALSE,TRUE,FALSE
-Barclays Premier League,,ENG-1,Wolverhampton,b9si1jn1lfxfund69e9ogcu2n,Wolves,FALSE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Anderlecht,6vyr13j6kbwdtxjwm1m4m8nu2,Anderlecht,TRUE,TRUE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Antwerp,7zibyotq1x1hq6pmgibhr0e6s,Antwerp,TRUE,TRUE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Cercle Brugge,3ix9om1svhd6obl0mbk1otgop,Cercle Brugge,TRUE,TRUE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Club Brugge,1oyb7oym5nwzny8vxf03szd2h,Brugge,TRUE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Eupen,9njsy633rh1tyri7l2jaju5o,Eupen,TRUE,TRUE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Genk,89xivtxk59uzvhdsd6miao6tm,Genk,TRUE,TRUE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,KAA Gent,8y3iucyxguipljcmf87a11bk9,Gent,FALSE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,KV Kortrijk,1uk609mhtsfhokhaewjapb26,Kortrijk,FALSE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,KV Mechelen,b7jmo07lqav0wfe2mtlzyspak,Mechelen,FALSE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,KV Oostende,2b57rbw94i9ohnbch52owvqtq,Oostende,TRUE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,KVC Westerlo,2nhn3ikl1ciq34w3hcp883d6p,Westerlo,FALSE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,OH Leuven,bw9wm8pqfzcchumhiwdt2w15c,Leuven,TRUE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,RFC Seraing,jb4xejoxjfk5a0a50bo8hvst,Seraing,TRUE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,SV Zulte Waregem,547zzwqbiugzphhnrhj3z5k5i,Zulte Waregem,FALSE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Sporting de Charleroi,920raeoumft3q2wmvc296uceo,Charleroi,FALSE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,St. Truidense,2989v3kho9h5jaboe1nr7lx21,St Truiden,FALSE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Standard Liege,5z1b7fuvpqe6vnigvopomvecu,Standard,TRUE,FALSE,TRUE,FALSE
-Belgian Jupiler League,,BEL-1,Union Saint Gilloise,ecj1gmc7pqcjo4sc9hvghj5u3,St Gillis,TRUE,FALSE,TRUE,FALSE
-Brasileiro Série A,,,América Mineiro,d0tpuy1w8ckf8iiea01t1aob5,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Atletico Mineiro,1f6qzkdjh8fih5ii1eyqmkolq,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Atlético Paranaense,5h3amvo8ykt01u4h3upw3c5qf,,FALSE,,TRUE,FALSE
-Brasileiro Série A,,,Bahía,e93fgat6j6g86zqul1m3m2kpn,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Botafogo,2x94b2pn1o1tb5l1bbu8x9yu9,,FALSE,,TRUE,FALSE
-Brasileiro Série A,,,Bragantino,4ayjm36vlnc5j8jhwpsdwxuph,,FALSE,,TRUE,FALSE
-Brasileiro Série A,,,Corinthians,f0td6lvs326lppbwh1fj8v2ls,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Coritiba,ewfcgj6z5nzaswg3n2qwtmut8,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Cruzeiro,bd6vujl7jfv4wtc8gvo1o1t5y,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Cuiaba,3oau1zwakraexd8ej8xvtlaqo,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Flamengo,102ykb145wz6dtveg65nistwm,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Fluminense,2ldx5vhhqfz2rllkgp7wpa744,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Fortaleza,1vvaya787s5wg5geudzacya7m,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Goiás,5umkgpd22oex45aoco3wqgddl,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Grêmio,1yd80wg4djlmtgkei51x0x4t6,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Internacional,c7n1isjmpyqt5pj51yekr08wo,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Palmeiras,b9d2xcvxxcwplyp4le9ulnlv9,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Santos,1icvp50kgaw8oduqmhyt3iex0,,FALSE,,TRUE,FALSE
-Brasileiro Série A,,,São Paulo,5p301ikmaba9gesscss3zo745,,TRUE,,TRUE,FALSE
-Brasileiro Série A,,,Vasco da Gama,5ponlslulpugdlvd93n9yqu2b,,TRUE,,TRUE,FALSE
-Chinese Super League,,,Beijing Guoan,exq7je02eprk5fcre1uo9zwbi,,TRUE,,TRUE,FALSE
-Chinese Super League,,,Chongqing Lifan,,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Dalian Aerbin,817smfh7hpkm40ohdtpt5cong,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Guangzhou Evergrande,5qzr4s22not88tidy4qa8yu39,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Guangzhou RF,44o0qswun6dqu7chur7qe6kbd,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Guizhou Renhe,,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Hebei China Fortune FC,27r7zh6myhtrd70r3migcw4k0,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Henan Jianye,1eaept8dld85s894brcrkrq5p,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Jiangsu Suning FC,,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Shandong Luneng,7fqhid43axyzp47bihoqhqdbf,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Shanghai Greenland,cvx4yvx5oby9dz7vm70mw04um,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Shanghai SIPG,5x5hvs5xtbbh8b0zg5ehyyudv,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Shenzhen FC,cqgjh5ddgqg6xo7xuqcz5ixni,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Tianjin Quanujian,,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Tianjin Teda,,,FALSE,,TRUE,FALSE
-Chinese Super League,,,Wuhan Zall,9fjc0s8urhe984ih9i8r7v494,,FALSE,,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,AC Horsens,a9vw7ikerpr4cuweeeka5aneg,Horsens,FALSE,FALSE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,AGF Aarhus,5rz9enoyknpg8ji78za5b82p0,Aarhus,FALSE,FALSE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,AaB,36g6ifzjliec1jqnbtf7yesme,Aalborg,TRUE,FALSE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,Brondby,9qsmopgutr7ut5g6workk8w4i,Brondby,TRUE,TRUE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,FC Copenhagen,b3r6d8ydtmtjckam6pku9y400,FC Kobenhavn,FALSE,FALSE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,FC Midtjylland,59as3grjvj19voay31j3yfgni,Midtjylland,FALSE,FALSE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,FC Nordsjaelland,77tfx9me4aaqhzv78bmgsy9bg,Nordsjaelland,FALSE,FALSE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,Lyngby,anga7587r1zv4ey71ge9zxol3,Lyngby,TRUE,TRUE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,Odense BK,dbl7ir1qugqz8nvp1vzn8im50,Odense,FALSE,FALSE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,Randers FC,9w3sjm5ml4sjr2v81oxzdrt8v,Randers,FALSE,FALSE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,Silkeborg,ahnt9ejgwj58ul8auzdvi3czf,Silkeborg,TRUE,TRUE,TRUE,FALSE
-Danish SAS-Ligaen,,DEN-1,Viborg,cftj6g399tknheudaxsdpfdgb,Viborg,TRUE,TRUE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,AZ,3kfktv64h7kg7zryax1wktr5r,,TRUE,,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Ajax,d0zdg647gvgc95xdtk1vpbkys,Ajax,TRUE,TRUE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Cambuur Leeuwarden,ears40cp6opsgvhsy0dgyszpd,Cambuur,FALSE,FALSE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Emmen,3t0vjqtxc8wpjzv82i3oi2ova,Emmen,TRUE,TRUE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Excelsior,dqk062lu0vm8epvytbm6r4mmf,Excelsior,FALSE,TRUE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,FC Groningen,cos9hxi16eitbcbthof7zrm4m,Groningen,FALSE,FALSE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,FC Twente,4tic29sox7m39fy1ztgv0jsiq,Twente,FALSE,FALSE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,FC Utrecht,ccpscwdcm65czscrun048ecn5,Utrecht,FALSE,FALSE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,FC Volendam,6g9qrm72224jrk6tkxxxi8a9n,Volendam,FALSE,FALSE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Feyenoord,20vymiy7bo8wkyxai3ew494fz,Feyenoord,TRUE,TRUE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Fortuna Sittard,3ebril33e08ddzob4bhq8awsr,Sittard,TRUE,FALSE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Go Ahead Eagles,b79uipsy57y1jqpy07h4i5ovk,Go Ahead Eagles,TRUE,TRUE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Heerenveen,4vd2t5schmvvufrfib7f2vjdf,Heerenveen,TRUE,TRUE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,NEC,8iawijq7s9s6d85mjz8wdslki,,TRUE,,TRUE,FALSE
-Dutch Eredivisie,,NED-1,PSV,24fvcruwqrqvqa3aonf8c3zuy,PSV,TRUE,TRUE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,RKC,ed5nwjz5za3oyi20nxzgqivmx,,FALSE,,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Sparta,89w5c6pw7vn0dxypi61tt0g4k,Sparta Rotterdam,FALSE,FALSE,TRUE,FALSE
-Dutch Eredivisie,,NED-1,Vitesse,6hsriqr3ybvyg94w2k19oal50,Vitesse,FALSE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Birmingham,8kreqtde5jdktcib0kg7dknac,Birmingham,FALSE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Blackburn,ep3im6aygoatju4u3ws8v3mog,Blackburn,FALSE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Blackpool,f1ni8k09kpdcwmkasi69rl0bz,Blackpool,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Bristol City,c5485h5qulh4l0k0py5b9xug1,Bristol City,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Burnley,64bxxwu2mv2qqlv0monbkj1om,Burnley,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Cardiff City,3ash57c0q2tgok6gvzbsta93,Cardiff,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Coventry City,dacoc20k0n3fxu4zek8wufmko,Coventry,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Huddersfield Town,5n5baro467i8s8efkra3nhgux,Huddersfield,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Hull City,f0figafm2v9h8ofo6slajj7xf,Hull,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Luton Town,aksa492u5hf93giwcn2zt1nzz,Luton,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Middlesbrough,cq0jd5ztepqjjeikk5trb15vr,Middlesbrough,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Millwall,40d2qd8lr1tgsvmg5l1fzaf4o,Millwall,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Norwich City,suz80crpy3anixyzccmu6jzp,Norwich,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Preston North End,5kq4izdz28qjaxoa6ujclwghj,Preston,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Queens Park Rangers,72nmbktwvcj3wizfp37yjf0dp,QPR,FALSE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Reading,egm6z8hhksfg8f6a49jigczxh,Reading,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Rotherham United,6m5s30n9ej0dqfk1hfyrlkhdw,Rotherham,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Sheffield United,bws31egwjda253q9lvykgnivo,Sheffield United,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Stoke City,4qioq44vcv619vnyy2rpovk4e,Stoke,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Sunderland,1r3545b2dzan8yqa80gtmcjch,Sunderland,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,Swansea City,410jti6axb01yhvbc0axsp8li,Swansea,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Watford,4t83rqbdbekinxl5fz2ygsyta,Watford,TRUE,TRUE,TRUE,FALSE
-English League Championship,,ENG-2,West Bromwich Albion,d1lhefp805y0rcbjqkpu4fq0n,West Brom,TRUE,FALSE,TRUE,FALSE
-English League Championship,,ENG-2,Wigan,dmypntcdsl5w8w8pcqs0b8mpj,Wigan,FALSE,TRUE,TRUE,FALSE
-English League One,,,Accrington Stanley,5qwskbjpa17fvmtuu5qijy7cz,,TRUE,,TRUE,FALSE
-English League One,,,Barnsley,9db4t34qy4owglhvvgwf5l22i,,TRUE,,TRUE,FALSE
-English League One,,,Bolton,69t8imcdaqlgfbds2p58596my,,FALSE,,TRUE,FALSE
-English League One,,,Bristol Rovers,5pfqedkme2kabtqhkln35pf3l,,TRUE,,TRUE,FALSE
-English League One,,,Burton Albion,8mbtyq0has0uu0565fm9t5cdo,,TRUE,,TRUE,FALSE
-English League One,,,Cambridge United,dmz37633qbsvl7gncq5s51yjw,,TRUE,,TRUE,FALSE
-English League One,,,Charlton Athletic,2ezfenuwk3y65p8jdbj55xqt0,,TRUE,,TRUE,FALSE
-English League One,,,Cheltenham Town,fvr504m6gaxsfmtx4fwm7iq1,,TRUE,,TRUE,FALSE
-English League One,,,Derby County,3ptd7zlc5isrongig0wij2id4,,TRUE,,TRUE,FALSE
-English League One,,,Exeter City,dv9l02o316cd9hbkxaho2u12f,,TRUE,,TRUE,FALSE
-English League One,,,Fleetwood Town,8rfydplrc9ki0sirqi0drcybk,,TRUE,,TRUE,FALSE
-English League One,,,Forest Green Rovers,17zuelixesst1z59fwcix2dil,,TRUE,,TRUE,FALSE
-English League One,,,Ipswich Town,8b523ujgl21tbc01me65q0aoh,,TRUE,,TRUE,FALSE
-English League One,,,Lincoln City,b3vbyitzi3nrw9ehj1eoko219,,TRUE,,TRUE,FALSE
-English League One,,,Milton Keynes Dons,8w89tsles26jm12aoelwvlttt,,TRUE,,TRUE,FALSE
-English League One,,,Morecambe,8xeuwzxnm7hdlbjjuezgfkz3w,,TRUE,,TRUE,FALSE
-English League One,,,Oxford United,ahm0t06rup1bkd9z0mxl2lmph,,TRUE,,TRUE,FALSE
-English League One,,,Peterborough United,5jjqm8h6qm1w4s5f93uubhdrj,,TRUE,,TRUE,FALSE
-English League One,,,Plymouth Argyle,5g1fnexeromjl0lvnxp8hpnhi,,TRUE,,TRUE,FALSE
-English League One,,,Port Vale,ejm092fnt9zoxbpuklzd52ji8,,TRUE,,TRUE,FALSE
-English League One,,,Portsmouth,80jtkz2echk6yyyb9e2595cxr,,TRUE,,TRUE,FALSE
-English League One,,,Sheffield Wednesday,1musyruv2ufjrjnj6gvdbr8kt,,TRUE,,TRUE,FALSE
-English League One,,,Shrewsbury Town,82kapkjwonlv9j1ui0ytv5sii,,TRUE,,TRUE,FALSE
-English League One,,,Wycombe Wanderers,jv3jh5m5t7qy5t37vwwmnj16,,TRUE,,TRUE,FALSE
-English League Two,,,AFC Wimbledon,7sck2yj98lv9ogljofza0c7f9,,TRUE,,TRUE,FALSE
-English League Two,,,Barrow,2h0f9b45mwop10akb6bp7qx3,,TRUE,,TRUE,FALSE
-English League Two,,,Bradford City,2b5k2yusdx2ctd5cdv739p3il,,TRUE,,TRUE,FALSE
-English League Two,,,Carlisle United,4wqa3vdd3owvzbdpmh91uvvhp,,TRUE,,TRUE,FALSE
-English League Two,,,Colchester United,crpd0wug26fg7skfzmf11x1k2,,TRUE,,TRUE,FALSE
-English League Two,,,Crawley Town,41pv4kcoqzdkswdzqhll8ellb,,TRUE,,TRUE,FALSE
-English League Two,,,Crewe Alexandra,9ze1c55gavzeg6vw37ca1banb,,TRUE,,TRUE,FALSE
-English League Two,,,Doncaster Rovers,6dryhu9wer42nt1dxoophpk96,,TRUE,,TRUE,FALSE
-English League Two,,,Gillingham,2597fv0oiboak9jyryf3gt39g,,TRUE,,TRUE,FALSE
-English League Two,,,Grimsby Town,6ipyteigr21t78l6fro3ig10j,,TRUE,,TRUE,FALSE
-English League Two,,,Harrogate Town,bkzx43uwodxey51ivfvbqf37g,,TRUE,,TRUE,FALSE
-English League Two,,,Hartlepool,47loqs7917u2rbhl1cqdupbre,,FALSE,,TRUE,FALSE
-English League Two,,,Leyton Orient,2fhm98swvvbztf9cy67juhpas,,TRUE,,TRUE,FALSE
-English League Two,,,Mansfield Town,4hcdmgl41o4blqpbeelu56h7y,,TRUE,,TRUE,FALSE
-English League Two,,,Newport County,bewbbriuwh3i7a2zn19e6d0v4,,TRUE,,TRUE,FALSE
-English League Two,,,Northampton Town,761h1nqgu3ogxgvp8ubb71r00,,TRUE,,TRUE,FALSE
-English League Two,,,Rochdale,dqitrs0w52z0p9f4t07z0aqzw,,TRUE,,TRUE,FALSE
-English League Two,,,Salford City,2dakjegmrc2cxx2hqq5wzegt,,TRUE,,TRUE,FALSE
-English League Two,,,Stevenage,6xhqd6it53k2s5n7veo817ga4,,TRUE,,TRUE,FALSE
-English League Two,,,Stockport County,5adikbrse2tjc3zthxrx8ic2k,,TRUE,,TRUE,FALSE
-English League Two,,,Sutton United,868eewpas8ksqiyprnczkpran,,TRUE,,TRUE,FALSE
-English League Two,,,Swindon Town,9ws3x82yqn7svjq6onvtunpst,,TRUE,,TRUE,FALSE
-English League Two,,,Tranmere Rovers,9j48z9ohucqbzpneoghrgwevs,,TRUE,,TRUE,FALSE
-English League Two,,,Walsall,1tev1lioyfaxbk2uod5uekzyj,,TRUE,,TRUE,FALSE
-French Ligue 1,,FRA-1,AC Ajaccio,6xjy1q2m55iiwe8g1r1yffbc9,Ajaccio,FALSE,FALSE,TRUE,FALSE
-French Ligue 1,,FRA-1,AS Monaco,4t4hod56fsj7utpjdor8so5q6,Monaco,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Angers,75qj99fhg5c0ztj2tva5u4uii,Angers,FALSE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Auxerre,9bxav814mkuhueiyivyive82d,Auxerre,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Brest,3adj8hkws0z1al232bg2h6tk0,Brest,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Clermont Foot,17o35s8assv3kamxowzz77k4r,Clermont,FALSE,FALSE,TRUE,FALSE
-French Ligue 1,,FRA-1,Lens,3xedluek08t2ka7oypwuullcn,Lens,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Lille,be2k34rut1lz79jxenabttqlc,Lille,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Lorient,70nn27vgkt6l48lvv5e66q7ww,Lorient,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Lyon,121le8unjfzug3iu9pgkqa1c7,Lyon,FALSE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Marseille,27xvwccz8kpmqsefjv2b2sc0o,Marseille,FALSE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Montpellier,2cjpmotqo8phcqfpgo9xf4gel,Montpellier,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Nantes,750ustvk4jfqmo8q4gnrcxy7z,Nantes,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Nice,bx0cdmzr2gwr70ez72dorx82p,Nice,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Paris Saint-Germain,2b3mar72yy8d6uvat1ka6tn3r,Paris SG,FALSE,FALSE,TRUE,FALSE
-French Ligue 1,,FRA-1,Reims,3c3jcs7vc1t6vz5lev162jyv7,Reims,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Stade Rennes,z1wbqtd0fz5t5eezjvrbld3h,Rennes,FALSE,FALSE,TRUE,FALSE
-French Ligue 1,,FRA-1,Strasbourg,71ajatxnuhc5cnm3xvgdky49w,Strasbourg,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Toulouse,4aghw9tyi8ba3ju1ne83gmf9w,Toulouse,TRUE,TRUE,TRUE,FALSE
-French Ligue 1,,FRA-1,Troyes,3unkqo2g6ag99gd5ynz1j7vse,Troyes,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Amiens,5191cnvhmuct5kn7yvr0nvd9d,Amiens,FALSE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Annecy,6sqrk45zcfgwpq97no19o9sk5,Annecy,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Bastia,6l07ga27xfsr7485fuc1ilkkc,Bastia,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Bordeaux,98dr7jscv8adc8zgi2u403oij,Bordeaux,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Caen,ab80vest6tgco121qtfyphq7c,Caen,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Dijon FCO,79dc2mv3x269nhix3mkhc5wfu,Dijon,FALSE,FALSE,TRUE,FALSE
-French Ligue 2,,FRA-2,Grenoble,2ku5qqmv6i842rujioksaatx7,Grenoble,FALSE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Guingamp,e9mmk1w7cem6r4wysgassacef,Guingamp,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Laval,75gwk94q9jkoh78jk8nlay4xj,Laval,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Le Havre,23pqcgxu1tip265hbe01kszbt,Le Havre,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Metz,2khen2a38l2hkx33s73pehl6o,Metz,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Nimes,ackp3k0zn4tukl6ejvn3ajnjz,Nimes,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Niort,7vnnz5z9l3zqyaadfsidi7mh0,Niort,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Paris FC,8v00fx2zwhiwm05tqqkt122p5,Paris FC,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Pau,25s5qx846iw05y8t9pinrbhh1,Pau,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Rodez,2u30h0xpbfzv0byj4j7d8c4ug,Rodez,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Sochaux,d9kwaceoj54pfprd6oc2hwae6,Sochaux,TRUE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,St Etienne,2sc9xfhu6tbru9hhlhr4a89zn,Saint-Etienne,FALSE,FALSE,TRUE,FALSE
-French Ligue 2,,FRA-2,US Quevilly,8ng94h4147jxd5oxgoaa95yl4,US Quevilly,FALSE,TRUE,TRUE,FALSE
-French Ligue 2,,FRA-2,Valenciennes,g8cvbv4wrvq7uf4347yjkd35,Valenciennes,TRUE,TRUE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,1. FC Heidenheim 1846,3xcg7xikgrn2x8oa65sopb2is,Heidenheim,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,1. FC Kaiserslautern,dmw05a03pgt48fnf9ikxs6i1o,Lautern,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,1. FC Magdeburg,7tsc39uwtnq238hrx6d9zi3xy,Magdeburg,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,1. FC Nürnberg,c8rdmlwqz77xe8yzv3r881dz3,Nuernberg,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Arminia Bielefeld,bdlavlqj0dshxnepyfanzwu47,Bielefeld,TRUE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Eintracht Braunschweig,kxpw3rqn4ukt7nqmtjj62lbn,Braunschweig,TRUE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,FC St. Pauli,85jtaw5dcxxx1yp8te6axh3p8,St Pauli,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Fortuna Düsseldorf,8cf22o379ziez932kkzoi1d8q,Duesseldorf,TRUE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Hamburg SV,75xi6hloabmnjn2kzgj1g8h1s,Hamburg,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Hannover 96,5lidfwkteyu9dj9ysmdq2v4tk,Hannover,TRUE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Hansa Rostock,32yd2iyyibspuyakdizwy8g3n,Rostock,TRUE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Holstein Kiel,6zwg0wxjie31da2i4wwh2h4ho,Holstein,TRUE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Jahn Regensburg,d4p104ikzzt5hfwdzppbmp7e0,Regensburg,TRUE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,Karlsruher SC,aojwbjr39s1w2mcd9l2bf2dhk,Karlsruhe,TRUE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,SC Paderborn,62ljqd4za2a6svd9wgctg8b53,Paderborn,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,SV Darmstadt 98,1y7e48j8swyafegsucvewse5a,Darmstadt,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,SV Sandhausen,884uzyf1wosc7ykji6e18gifp,Sandhausen,FALSE,FALSE,TRUE,FALSE
-German 2. Bundesliga,,GER-2,SpVgg Greuther Fürth,9dlxuym0eab00j9ggrdr87soj,Fuerth,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,1. FC Union Berlin,a8d2gb2nag8fy0itbuxmcibh2,Union Berlin,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Bayer Leverkusen,7ad69ngbpjuyzv96drf8d9sn2,Leverkusen,TRUE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Bayern Munich,apoawtpvac4zqlancmvw4nk4o,Bayern,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Borussia Dortmund,dt4pinj0vw0t0cvz7za6mhmzy,Dortmund,TRUE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Borussia Monchengladbach,go76xxm0xyfgqt1h6tcrtimm,Gladbach,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Eintracht Frankfurt,c5hderjlkcoaze51e5wgvptk,Frankfurt,TRUE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,FC Augsburg,ex3psl8e3ajeypwjy4xfltpx6,Augsburg,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,FC Cologne,8q1ul09cygzswb7tb456bmifv,Koeln,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Hertha Berlin,f0w62l8zql3tukxsy8fqwp72x,Hertha,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Mainz,1c7qokc1j5z50cjj4tcu32haa,Mainz,FALSE,TRUE,TRUE,FALSE
-German Bundesliga,,GER-1,RB Leipzig,9gefq4dz9b2hl8rqrxwrlrzmp,RB Leipzig,TRUE,TRUE,TRUE,FALSE
-German Bundesliga,,GER-1,SC Freiburg,6k5zscdm9ufw0tguvzyjlp5hq,Freiburg,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Schalke 04,cz4a6wmzx2obyisadhgaccx7b,Schalke,TRUE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,TSG Hoffenheim,4l9mrqzmajz5crzlz50mtbt6x,Hoffenheim,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,VfB Stuttgart,3dwlvz6cl4lcavvrg0y2dycrt,Stuttgart,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,VfL Bochum,eq1oq6y61xnzq88zu0cnw131z,Bochum,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,VfL Wolfsburg,a8l3w3n0j99qjlsxj3jnmgkz1,Wolfsburg,FALSE,FALSE,TRUE,FALSE
-German Bundesliga,,GER-1,Werder Bremen,cu0eztmjcsbydyp53aleznorw,Werder,TRUE,FALSE,TRUE,FALSE
-Greek Super League,,GRE-1,AEK Athens,7ruua9q5rtswwi5d6xtquuto5,AEK,TRUE,FALSE,TRUE,FALSE
-Greek Super League,,GRE-1,Aris Salonika,90z9l1k46z46ep9oupipgganh,Aris,FALSE,FALSE,TRUE,FALSE
-Greek Super League,,GRE-1,Asteras Tripolis,c53eublb5ds9v1rlscm8x39pq,Asteras Tripolis,TRUE,TRUE,TRUE,FALSE
-Greek Super League,,GRE-1,Atromitos,4gex5os8jassavy6lopipbcz3,Atromitos,TRUE,TRUE,TRUE,FALSE
-Greek Super League,,GRE-1,Giannina,1kij1j9oyr97sxtd0hvgnre10,Giannina,FALSE,TRUE,TRUE,FALSE
-Greek Super League,,GRE-1,Ionikos FC,gafj2w5j6j5u1k05xdgi3yqp,Ionikos,FALSE,FALSE,TRUE,FALSE
-Greek Super League,,GRE-1,Lamia,8f2ud0np10grf6a1ke620ma4s,Lamia,TRUE,TRUE,TRUE,FALSE
-Greek Super League,,GRE-1,Levadiakos,1j8ifp7frhzci6o6kvnl1glif,Levadeiakos,TRUE,FALSE,TRUE,FALSE
-Greek Super League,,GRE-1,OFI Crete,dr4emys1xpm2h54oid0q5y2nx,OFI,FALSE,FALSE,TRUE,FALSE
-Greek Super League,,GRE-1,Olympiacos,9ghx7vbghs3628n5chm9r8ig3,Olympiakos,FALSE,FALSE,TRUE,FALSE
-Greek Super League,,GRE-1,PAOK Salonika,deazflnflqmejndo05gviznzd,PAOK,FALSE,FALSE,TRUE,FALSE
-Greek Super League,,GRE-1,Panathinaikos,4ws3k9155net1ydbvr8c940dy,Panathinaikos,TRUE,TRUE,TRUE,FALSE
-Greek Super League,,GRE-1,Panetolikos,dozhxtpww3paixmvttljtduge,Panetolikos,FALSE,TRUE,TRUE,FALSE
-Greek Super League,,GRE-1,Volos NFC,937i26v5naqzhwxcelwtgou3u,NFC Volos,TRUE,FALSE,TRUE,FALSE
-Italy Serie A,,ITA-1,AC Milan,9dntj5dioj5ex52yrgwzxrq9l,Milan,FALSE,FALSE,TRUE,FALSE
-Italy Serie A,,ITA-1,AS Roma,2tk2l9sgktwc9jhzqdd4mpdtb,Roma,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Atalanta,e75syeuawg3ql8nwpi3vr2btz,Atalanta,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Bologna,ej5er0oyngdw138yuumwqbyqt,Bologna,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Cremonese,af91jdcs6x0bqkmdb78rokod2,Cremonese,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Empoli,8le3orkfz6iix3jns6g9ojqjg,Empoli,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Fiorentina,4raiad4l2j5lkfaz92pk4osb,Fiorentina,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Internazionale,3vo5mpj7catp66nrwwqiuhuup,Inter,TRUE,FALSE,TRUE,FALSE
-Italy Serie A,,ITA-1,Juventus,bqbbqm98ud8obe45ds9ohgyrd,Juventus,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Lazio,btcy9nra9ak4m22ovr2ia6m5v,Lazio,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Lecce,bi1fxjrncd0ram0oi7ja1jyuo,Lecce,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Monza,67z1gqyiuzpmmb15q5fy7ntc4,Monza,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Napoli,gi0l1habji5hpgar77dl5jqe,Napoli,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Salernitana,49rkyo4do8uwj06geomw0xr4i,Salernitana,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Sampdoria,4plikfte18rv8v4l89z803d4y,Sampdoria,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Sassuolo,6tuibxq39fdryu8ou06wcm0q3,Sassuolo,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Spezia,4klvxyeh3xcus4ongu7c00mgc,Spezia,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Torino,7gnly6999wao1xarwct4p8fe9,Torino,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Udinese,dxq76zcvnokq07cszdx0i6kve,Udinese,TRUE,TRUE,TRUE,FALSE
-Italy Serie A,,ITA-1,Verona,ap6blbxhq9elm62vw6tutzlwg,Verona,FALSE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Ascoli,dibn6hjca9timadlm3pqve4z9,Ascoli,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Bari,e2hi197ydanctu9i74tonpt4r,Bari,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Benevento,4cq1gkb2yelnvz4z7jdo6q81,Benevento,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Brescia,a80afp6w8wof6ci633u8k93de,Brescia,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Cagliari,5rwlg5cfv1hu7yf0ek1zxpzy3,Cagliari,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Cittadella,dlda35ece1taoufqhscwnf6jq,Cittadella,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Como,6uzfw7ahyxg4wrrfxo5u7qt0n,Como,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Cosenza,borsok34ukkl30nox3azxw3wq,Cosenza,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,F.B.C Unione Venezia,565sm63rjm2y7xeae0dcdbtnu,Venezia,FALSE,FALSE,TRUE,FALSE
-Italy Serie B,,ITA-2,Frosinone,5khizzei8z0qbb7exz622wxw3,Frosinone,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Genoa,4kumqzwifv478caxed8zywlh3,Genoa,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Modena,n1m34lh0h7dfk0ag9h0zcxgh,Modena,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Palermo,2ungwfinfq61qrc6py1skd7ds,Palermo,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Parma,5aosfavi55p40c65lkriqnqnl,Parma,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Perugia,60gjrw8umdjqn8tp31d1nfwye,Perugia,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Pisa,bfztlrr6176xsdt2bmp0u1d2d,Pisa,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Reggina,42kf8o5u7a1yab8fcis8vrz0s,Reggina,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Spal,1vgjxh0up351qa1q54ifmyxa1,Spal,TRUE,TRUE,TRUE,FALSE
-Italy Serie B,,ITA-2,Sudtirol,4os8c4tugzqwx4hef5g7lic78,Suedtirol,TRUE,FALSE,TRUE,FALSE
-Italy Serie B,,ITA-2,Ternana,e361o6jsbyqoimblxx30fcw1a,Ternana,TRUE,TRUE,TRUE,FALSE
-Japanese J League,,,Albirex Niigata,12tyw9yomy9n5cjd5po2ajx1q,,TRUE,,TRUE,FALSE
-Japanese J League,,,Avispa Fukuoka,ydlnn8jofdkseegh42az3fpt,,TRUE,,TRUE,FALSE
-Japanese J League,,,Cerezo Osaka,90cc40yau7yv6n8r4xs361ofd,,TRUE,,TRUE,FALSE
-Japanese J League,,,Consadole Sapporo,1f3ehp8p9yi8reamghry4p76t,,TRUE,,TRUE,FALSE
-Japanese J League,,,FC Tokyo,e90fnsgtnamze3yssxpg392eb,,FALSE,,TRUE,FALSE
-Japanese J League,,,Gamba Osaka,92br3632xgmc25jvr0jesfvl6,,TRUE,,TRUE,FALSE
-Japanese J League,,,Kashima Antlers,9s2g5k3dlmfii452t8edaeozh,,TRUE,,TRUE,FALSE
-Japanese J League,,,Kashiwa Reysol,3lyo0vqgndy4fuzlfo5l9ql30,,TRUE,,TRUE,FALSE
-Japanese J League,,,Kawasaki Frontale,5pol481515zvirmk6t00kerbc,,TRUE,,TRUE,FALSE
-Japanese J League,,,Kyoto Purple Sanga,6bus1cl4b6zdm93290r02o7cx,,FALSE,,TRUE,FALSE
-Japanese J League,,,Nagoya Grampus Eight,18c8ibslzapz40lfb8y5vygcs,,FALSE,,TRUE,FALSE
-Japanese J League,,,Sagan Tosu,27o8mdqno6jslcjb709sxjwyy,,TRUE,,TRUE,FALSE
-Japanese J League,,,Sanfrecce Hiroshima,89wr6p2dkh7wjxtbwhtsruu02,,TRUE,,TRUE,FALSE
-Japanese J League,,,Shonan Bellmare,83d6z6wvkzs3dx9oy3mftixow,,TRUE,,TRUE,FALSE
-Japanese J League,,,Urawa Red Diamonds,3vfso415vj7uitnunviuzdyg3,,FALSE,,TRUE,FALSE
-Japanese J League,,,Vissel Kobe,bbt5nqwufsne7r0zfa6pvpmfa,,TRUE,,TRUE,FALSE
-Japanese J League,,,Yokohama F. Marinos,2cwez3hk2i75ope3qyu54cqh1,,TRUE,,TRUE,FALSE
-Japanese J League,,,Yokohama FC,ctm9as17rs95yhuz7qf53wfke,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Atlanta United FC,943ue6l8ylnidoygbi9p8op2h,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Austin FC,yrsr1hyy65062qyzw8sug3ys,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Charlotte FC,dqq34048nqex146r77i5l8twq,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Chicago Fire,apsqaaege20za4re5wm6bzq9a,,TRUE,,TRUE,FALSE
-Major League Soccer,,,Colorado Rapids,cvrl5bces32x6fup1ks1hvets,,TRUE,,TRUE,FALSE
-Major League Soccer,,,Columbus Crew,chjb0xe5vlaaguop3q2nbalni,,TRUE,,TRUE,FALSE
-Major League Soccer,,,DC United,5qw82lpi6fio4fbljihlyyulb,,TRUE,,TRUE,FALSE
-Major League Soccer,,,FC Cincinnati,652hppivbqchvrp3wopx1isyt,,FALSE,,TRUE,FALSE
-Major League Soccer,,,FC Dallas,4gi4qw4gt6nfq0c6r8y574qgp,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Houston Dynamo,69m5c06m9up1j8vf8ulnb80xu,,TRUE,,TRUE,FALSE
-Major League Soccer,,,Inter Miami CF,7a7uyvix8axi28h7d3bwl4tbe,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Los Angeles FC,c6e7kqqrkt389ysrth6yy6puy,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Los Angeles Galaxy,6qr5y32dthc4dqycckwmfj1si,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Minnesota United FC,dna80a164iz5ta6pp6ivk64rx,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Montreal Impact,oisd4xgg4qxt18c7tikdejbe,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Nashville SC,1oogd0fpwledjm2ycsuv7afze,,TRUE,,TRUE,FALSE
-Major League Soccer,,,New England Revolution,3ko4vrn7aouqpdr21sv4ipcvj,,FALSE,,TRUE,FALSE
-Major League Soccer,,,New York City FC,1bksy4rix8pm8rjve81uqo8ut,,FALSE,,TRUE,FALSE
-Major League Soccer,,,New York Red Bulls,7k329us81r2yiw9pakgo5tp6e,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Orlando City SC,eaqreat4kxwvah0bvwg1wtoq5,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Philadelphia Union,aq0m4zmew7kkplbi7fa0pv45c,,TRUE,,TRUE,FALSE
-Major League Soccer,,,Portland Timbers,77o8sorlijzpr0t4s7231zzxp,,TRUE,,TRUE,FALSE
-Major League Soccer,,,Real Salt Lake,29zyafx618w7tvp34n53pzwwb,,TRUE,,TRUE,FALSE
-Major League Soccer,,,San Jose Earthquakes,a2jg79bf9ab1vj6iok2r328cc,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Seattle Sounders FC,3st9rj62b3qnni6uolw0lwaqn,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Sporting Kansas City,3olfhpj6emfhceudd95ytb9gy,,FALSE,,TRUE,FALSE
-Major League Soccer,,,St. Louis CITY SC,7rh4h3y77fl3s7rdqp61si49g,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Toronto FC,28teusnamw1ujgh5di1auf2f7,,FALSE,,TRUE,FALSE
-Major League Soccer,,,Vancouver Whitecaps,cdmq2tqfwo5td2ztv1s62bqlf,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Atlas,8jjxbd5vr23vhu1v5r21rzkrn,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Atlético San Luis,54ph1k82y99hhjsf7m2usns8u,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Club América,eu8c408f59yx7egaqossbv25e,,FALSE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Cruz Azul,1aw67co8uut64yckd3wbhy9t2,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,FC Juárez,ecphe4bqgmin2tzsohf50egvd,,FALSE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Guadalajara,e603sojy77s4u0ypqds2v2a1g,,FALSE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,León,2ei66pjfsrr6uxqp1bywq31lo,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Mazatlán FC,dsm1dxw4j3f973w7kzhe2n816,,FALSE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Monterrey,233335xtoe3e3phg3hp91xguq,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Necaxa,b7hn6knkuxbpj1i8rmzapns7b,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Pachuca,cynfvfb31rml7xrlsnejf8r6j,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Puebla,4kw25nmgmacpbvo24ttr994k5,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Pumas Unam,ayabrorjqa1bj7jk1fdqu1t57,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Querétaro,ccye1b5fvtq8tzlz0gosyw10b,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Santos Laguna,8yn3l36qkq1fxbw4ufmwyfyt9,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Tigres UANL,6hmo9mrlz73nwxkshwuu5vsfm,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Tijuana,c1wcescnsnfuyv06enhwaoqr6,,TRUE,,TRUE,FALSE
-Mexican Primera Division Torneo Clausura,,,Toluca,3390h9hdgoxzzofnrpyktanuz,,TRUE,,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Aalesund,3impprc048nbz39w05s18c6yt,Aalesund,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Bodo/Glimt,ctvzi2jbl1q6xzq0s3sexj73g,Bodoe Glimt,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,FK Jerv,4uhob9fidndruy140dh5ayd6a,,FALSE,,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Hamarkamaratene,crlocdyqyb1fdhck54qxs65rl,Ham-Kam,FALSE,FALSE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Haugesund,d8w1m5j3jbd1eva8524dv4a20,Haugesund,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Kristiansund BK,uqspd1bx7f6mq8ohj50u1k1k,,FALSE,,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Lillestrom,93xj9vmeln0marv6r1uti7but,Lillestrom,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Molde,45v50owpvshpijizwwlcw4lni,Molde,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Odd BK,e3b5vandkj5qfay9z6wq87yu,Odd Grenland,FALSE,FALSE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Rosenborg,c7jgkxx1czv5etn7snf1r6p2m,Rosenborg,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Sandefjord,btaf9fuj3xctycyjeqwereaow,Sandefjord,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Sarpsborg,doohk95o6e8pkqah8vkop51dg,Sarpsborg,FALSE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Stromsgodset,ew0hpuiweoltpsg5f51r2w64t,Stromsgodset,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Tromso,80hgdmpkvdrhw1ge9nks2kxvy,Tromso,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Valerenga,8q6cv8g4bd3xdl7m88kll16na,Valerenga,TRUE,TRUE,TRUE,FALSE
-Norwegian Tippeligaen,,NOR-1,Viking FK,bsykw9d70ffqe9atosc92n1e9,Viking,FALSE,FALSE,TRUE,FALSE
-Portuguese Liga,,POR-1,Benfica,9ldqu49smv1xg2va0n2cy28zl,Benfica,FALSE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Boavista,3b4nxgvmwzstmoq6borytkwx1,Boavista,TRUE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Braga,26t6lvlpql4w5wu1ih73qpy36,Braga,FALSE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Casa Pia,ewsf6evtguu9j7k6js4tlgl89,Casa Pia,TRUE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Chaves,alyavx3ad35bp1xuwmqk7sgev,Chaves,TRUE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Estoril Praia,22mo7qbsnyi8wtucpvhgvhw2q,Estoril,FALSE,FALSE,TRUE,FALSE
-Portuguese Liga,,POR-1,FC Arouca,dich5v7sw466smbqap0d9rbyj,Arouca,FALSE,FALSE,TRUE,FALSE
-Portuguese Liga,,POR-1,FC Porto,66bsnl0zjb7l5akwo00h0y5me,Porto,FALSE,FALSE,TRUE,FALSE
-Portuguese Liga,,POR-1,Famalicao,5c0sf1eaipcxvdw9o22of2jdp,Famalicao,TRUE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Gil Vicente,bwt8yfk8rkcwiwyr0mopd7wqd,Gil Vicente,TRUE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Guimaraes,8gvg1ranyf93hprfkwx3ofl2y,Guimaraes,FALSE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Maritimo,7kfx3xpj2c2wxinsyi16i9gaz,Maritimo,FALSE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Pacos Ferreira,491xixnlsp75o7cr3w2gc1o0z,Pacos Ferreira,FALSE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Portimonense,co1i764h6b02husae71w6scs8,Portimonense,TRUE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Rio Ave,cgvbluoerzbzcr7aaxge3wkcv,Rio Ave,TRUE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Santa Clara,cmbqc74mshg77ra7mywec2a6b,Santa Clara,TRUE,TRUE,TRUE,FALSE
-Portuguese Liga,,POR-1,Sporting CP,7catg5lpivcmpf4xhggh6d8rk,Sporting,TRUE,FALSE,TRUE,FALSE
-Portuguese Liga,,POR-1,Vizela,7fn0aazbc8nx0u040aulozds1,Vizela,TRUE,TRUE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,CSKA Moscow,6nfubpry6l0z27drwbvesjpvn,CSKA Moskva,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Dinamo Moscow,8mrwjyt72h0oqpj24xi4f7e8s,Dynamo Moskva,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,FC Khimki,53ilvf0xy5t0erfwchibmhkes,FC Khimki,FALSE,TRUE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,FC Krasnodar,17icf335ajx0bgofq41xsz8tv,FC Krasnodar,FALSE,TRUE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,FK Nizhny Novgorod,551am27ynhfd2ciffnfz1ehk7,Nizhny Novgorod,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Fakel Voronezh,c49dcd6hd81tv9f2o9ltxqsfx,Fakel Voronezh,FALSE,TRUE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Gazovik Orenburg,6j1r4zpoysezjln5ro143mqnt,Orenburg,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Krylia Sovetov,2kf8wmpaiufla46toezfpguas,Kryliya Sovetov,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Lokomotiv Moscow,3v69o7jfactkbwba836fnzyr4,Lok Moskva,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Rostov,c21b842qbf0i82euyl4yb5y0l,Rostov,TRUE,TRUE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Sochi,dv01yd3xywvn4tyrad7pcqjht,Sochi,TRUE,TRUE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Spartak Moscow,42qvrbdkk5p9kqrhd0g9er2aq,Spartak Moskva,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Terek Grozny,akank46134gx4nnpfbm5wttgu,Terek Grozny,FALSE,TRUE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Torpedo Moskow,3f66aqat0e0auj1x9fjeym9u0,Torpedo Moskva,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Ural Sverdlovsk Oblast,8z118klpzvd6vslyas9wugj87,Sverdlovsk,FALSE,FALSE,TRUE,FALSE
-Russian Premier Liga,,RUS-1,Zenit St Petersburg,1vd9iy5rcvl17r18piwwymg6q,Zenit,FALSE,FALSE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Aberdeen,841zp0njrq63yv4fvw6lgf60q,Aberdeen,TRUE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Celtic,dvnjvad3p09dugr79gktlrtll,Celtic,FALSE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Dundee Utd,4qdzzur2cuuridyb0jso8mksi,Dundee United,FALSE,FALSE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Hearts,1hcbcuu846pa3iw6qskiws1cu,Hearts,TRUE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Hibernian,c9ky1957qli8v2lylfga7io8b,Hibernian,TRUE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Kilmarnock,enzoyc121va61wtmjf4cm7p3d,Kilmarnock,TRUE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Livingston,besu5lkqmra07drq1czpr0tk4,Livingston,TRUE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Motherwell,759fhii7hsnldanli06j5jmf6,Motherwell,TRUE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Rangers,cnnku8uihko7u4th0fms4pvg6,Rangers,FALSE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,Ross County,87coxipr6ls77tnlba3eselx0,Ross County,TRUE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,St Johnstone,ez46dadmx0virt38cgeq2n6pf,St Johnstone,TRUE,TRUE,TRUE,FALSE
-Scottish Premiership,,SCO-1,St Mirren,muo4d1nfi1vgyvz5n07tjmoo,St Mirren,TRUE,TRUE,TRUE,FALSE
-South African ABSA Premier League,,,AmaZulu,ak8ykavbpvki7rmekeyjfdit,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Black Aces,b0gaeazzuecckeuhyp5b4dz44,,FALSE,,TRUE,FALSE
-South African ABSA Premier League,,,Chippa United,4cz716ugykgw3dl82z43evgai,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Golden Arrows,s7xf6mvsygysn88hs5bx1vzj,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Kaizer Chiefs,9g72y015b6fgkgtpx1c67qemi,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Mamelodi Sundowns,3h2hc3qy5uritiscjfq27bv3a,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Maritzburg Utd,2iuqsp84rr0es24mft6sxjcwr,,FALSE,,TRUE,FALSE
-South African ABSA Premier League,,,Moroka Swallows,6gs5c8gbzzh6q130gsng43gxd,,FALSE,,TRUE,FALSE
-South African ABSA Premier League,,,Orlando Pirates,asatsyoargv5n2y7o04swilai,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Richards Bay,epezc4zxkhy5y9x24tqdfmdt6,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Royal AM,86uzj3x4m8a46echw3r4sixhl,,FALSE,,TRUE,FALSE
-South African ABSA Premier League,,,Sekhukhune United,dskcf9vnfqys0leihwl0krxg4,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Stellenbosch FC,1shnouk5hkyelymt9ave9djub,,FALSE,,TRUE,FALSE
-South African ABSA Premier League,,,SuperSport United,70r3cpn394fvo2rl70s5hlx9z,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,TS Galaxy,9fjzy739uj2borv29vzra2vl6,,TRUE,,TRUE,FALSE
-South African ABSA Premier League,,,Tshakhuma Tsha Madzivhandila,4t8n4gm2xoifc6e5qxkfohgfp,,FALSE,,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Almeria,cobffe32r7g4skka9m19qib63,Almeria,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Athletic Bilbao,3czravw89omgc9o4s0w3l1bg5,Bilbao,FALSE,FALSE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Atletico Madrid,4ku8o6uf87yd8iecdalipo6wd,Atletico,TRUE,FALSE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Barcelona,agh9ifb2mw3ivjusgedj7c3fe,Barcelona,FALSE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Cadiz,82q9159y2u7mkfn3z6hy75r4o,Cadiz,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Celta Vigo,6f27yvbqcngegwsg2ozxxdj4,Celta,FALSE,FALSE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Elche,4yg9ttzw0m51048doksv8uq5r,Elche,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Espanyol,c8llrezkm3b3op4afrou6b487,Espanyol,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Getafe,1n1j0wsl763lq7ee1k0c11c02,Getafe,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Girona FC,7h7eg7q7dbwvzww78h9d5eh0h,Girona,FALSE,FALSE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Mallorca,50x1m4u58lffhq6v6ga1hbxmy,Mallorca,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Osasuna,2l0ldgiwsgb8d6y3z0sfgjzyj,Osasuna,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Rayo Vallecano,3budh3j9xivsid3ptm8ptpy4k,Rayo Vallecano,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Real Betis,ah8dala7suqqkj04n2l8xz4zd,Betis,TRUE,FALSE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Real Madrid,3kq9cckrnlogidldtdie2fkbl,Real Madrid,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Real Sociedad,63f5h8t5e9qm1fqmvfkb23ghh,Sociedad,FALSE,FALSE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Real Valladolid,4jelr92fsge73q39is6qvhxb3,Valladolid,TRUE,FALSE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Sevilla FC,10eyb18v5puw4ez03ocaug09m,Sevilla,FALSE,FALSE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Valencia,ba5e91hjacvma2sjvixn00pjo,Valencia,TRUE,TRUE,TRUE,FALSE
-Spanish Primera Division,,ESP-1,Villarreal,74mcjsm72vr3l9pw2i4qfjchj,Villarreal,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Alavés,4dtdjgnpdq9uw4sdutti0vaar,Alaves,FALSE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Albacete,13zq8jfp5uydowd3ibknxaffj,Albacete,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Burgos,9dh08biovdh6rzklzlf3zvezi,Burgos,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Eibar,bjltc68ihd23uu3svnq0o3qrs,Eibar,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,FC Andorra,chhfxt372lm29p9b96fr2ho4q,Andorra CF,TRUE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,FC Cartagena,5wxu1zqzg59vcv980gd8f946c,Cartagena,TRUE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Granada,26fes5ubaeq0fk1nay2pj2ob2,Granada,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Las Palmas,1ae3awgwm3i1jds5tfct5441j,Las Palmas,FALSE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Leganes,3krm0f4yr1l80j1sd7823f9xn,Leganes,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Levante,4grc9qgcvusllap8h5j6gc5h5,Levante,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Lugo,bfp1dwirz7vrihg6eqeo28cng,Lugo,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Mirandes,a745ojopc6f75ma1fyfzayono,Mirandes,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Málaga,7012hpp3p5vg4fzyn3h0yvf09,Malaga,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Racing Santander,bzkwzatvwahmbzok1ymm5vqa1,Santander,TRUE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Real Oviedo,clo928vcczjp0mczavs5o7p5k,Oviedo,TRUE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Real Zaragoza,6iwco2hhg7gp3bc9ywku4881k,Zaragoza,TRUE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,SD Huesca,egfc4v1d08dgbhkw8gxz85bzr,Huesca,FALSE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,SD Ponferradina,959m69bwnvxwr9uta2as4hwdh,Ponferradina,FALSE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Sporting Gijón,9wfi6tgumbrnkp72z8zab89kr,Gijon,TRUE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Tenerife,c2v5gyres2yaemc7t3ns323bj,Tenerife,TRUE,TRUE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,UD Ibiza,91yvq2zksnnd51c1t3zdf88yy,Ibiza Eivissa,FALSE,FALSE,TRUE,FALSE
-Spanish Segunda Division,,ESP-2,Villarreal B,aa9u45jhx90v9o0z67czgm3hs,Villarreal B,FALSE,TRUE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,AIK,5mbo4f0vps12dr0fcvjn3wyp5,AIK,TRUE,TRUE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,BK Hacken,9zqn9ugvg64it0lr5z8cq4g9v,Haecken,FALSE,FALSE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Brommapojkarna,ac8jow4mdkvnsv5s0och4qqm,Brommapojkarna,TRUE,TRUE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Degerfors IF,46yo78zak2j7kaxc5ak1fnm60,Degerfors,TRUE,TRUE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Djurgardens IF,czkf5t3ai00ghwbga03i5aqxw,Djurgarden,FALSE,TRUE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Halmstads BK,6i936isoyj6d0uuxdj537uc97,Halmstad,FALSE,FALSE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Hammarby,2nnlsjfbcea40t4jeclcbw9lk,Hammarby,TRUE,TRUE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,IF Elfsborg,1939bnru25svvgv15k2c7tw2y,Elfsborg,TRUE,TRUE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,IFK Goteborg,evf5hhqgnjhwjsth1m6pawxdp,Goeteborg,TRUE,FALSE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,IFK Norrkoping,7hlumphk42363z3i2nry2wrzj,Norrkoeping,FALSE,FALSE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,IFK Värnamo,durq4oppf7c08tnbzrlebt0uz,Varnamo,FALSE,FALSE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,IK Sirius,4jg5vd59i24chckyua90dr1lg,IK Sirius,FALSE,TRUE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Kalmar FF,bqtquhot4yruw677rkc607lk6,Kalmar,FALSE,FALSE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Malmo FF,93ohqui2qgqm8408viwmm1ken,Malmoe,TRUE,FALSE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Mjallby,spvvjmk37iid7hsky9g3nce7,Mjaellby,TRUE,FALSE,TRUE,FALSE
-Swedish Allsvenskan,,SWE-1,Varbergs BoIS FC,4mo3tith28qu9za01e8siplsn,Varbergs,FALSE,FALSE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,Basel,5u18kvqiqhup2vd345dci1069,Basel,TRUE,TRUE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,FC Lugano,btqfm8txcvhi29sddmc9nr68,Lugano,FALSE,FALSE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,FC Luzern,dk531bvjn5bmeonqs9hbbmfgr,Luzern,FALSE,FALSE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,FC Sion,b9fc1umgats16gk6wr769wh8a,Sion,FALSE,FALSE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,FC Vaduz,9kxht4usspzkeyosl567vjrs2,,FALSE,,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,FC Zurich,3sb3j9l7dbjcalwpirp3u2f9g,Zuerich,FALSE,FALSE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,Grasshoppers Zürich,9dqlf92t42brv71kvaet67tm4,Grasshoppers,FALSE,FALSE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,Servette,ccwv4ymbs3u0q8xaby4hqb0jz,Servette,TRUE,TRUE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,St Gallen,dty3ktxspuo8ayudnf0egkvx5,StGallen,TRUE,FALSE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,Winterthur,ag3mf21yz4g5ypnqr2j28crqb,Winterthur,TRUE,TRUE,TRUE,FALSE
-Swiss Raiffeisen Super League,,SUI-1,Young Boys,5fd9f9bti2cdgb6r1lf8l2bc7,Young Boys,FALSE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Adana Demirspor,4iqb7tq3rn4k3ynintvhxhx1i,Adana Demirspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Alanyaspor,84fpe0iynjdghwysyo5tizdkk,Alanyaspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Ankaragucu,a7jkz1m32wntcvegrwjbr85t5,Ankaraguecue,TRUE,FALSE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Antalyaspor,9irsyv431fpuqhqtfq9iwxf2u,Antalyaspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Besiktas,2ez9cvam9lp9jyhng3eh3znb4,Besiktas,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Fatih Karagümrük,c3txoz57mu7w9y1jprvnv2flr,Fatih Karaguemruek,TRUE,FALSE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Fenerbahce,8lroq0cbhdxj8124qtxwrhvmm,Fenerbahce,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Galatasaray,esa748l653sss1wurz5ps3228,Galatasaray,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Gazisehir Gaziantep,2agzb2h4ppg7lfz9hn7eg1rqo,Gaziantep FK,FALSE,FALSE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Giresunspor,8mr4jglhwoc9fs6ws8mp96qqf,Giresunspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Hatayspor,efy1nhpn5l6hc27znhsptegba,Hatayspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Istanbul Basaksehir,47njg6cmlx5q3fvdsupd2n6qu,Bueyueksehir,TRUE,FALSE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Istanbulspor,4rjsyxn0rlbjggofvvpbmk8pc,Istanbulspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Kasimpasa,4idg23egrrvtrbgrg7p5x7bwf,Kasimpasa,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Kayserispor,c8ns6z3u8kxldv1zh1evu10rv,Kayseri,TRUE,FALSE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Konyaspor,cw4lbdzlqqdvbkdkz00c9ye49,Konyaspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Sivasspor,f432akygffyamal3h6poig65t,Sivasspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Trabzonspor,2yab38jdfl0gk2tei1mq40o06,Trabzonspor,TRUE,TRUE,TRUE,FALSE
-Turkish Turkcell Super Lig,,TUR-1,Umraniyespor,v0qx960sz1tq9mprlxrcnfl5,Umraniyespor,TRUE,TRUE,TRUE,FALSE
-UEFA Champions League,Croatian First NL,,Dinamo Zagreb,7vyubxg6fnmwwyo2nnyhp6j5d,,TRUE,,TRUE,FALSE
-UEFA Champions League,Israelian Ligat Ha'al,,Maccabi Haifa,bglyqy0awtu6lzvpab390rir2,,TRUE,,TRUE,FALSE
-UEFA Champions League,Czech Republic Czech Liga,,Viktoria Plzen,c6fx1460nlkawjgh67sp7a1hd,,TRUE,,TRUE,FALSE
-UEFA Europa Conference League,Cypriot 1. Division,,Apollon Limassol,2qg4xmt2ucl2o5osmurwagw5g,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Kosovan Superliga,,Ballkani,cuzhkg1y2iv7fppnjldenfk2y,,TRUE,,TRUE,FALSE
-UEFA Europa Conference League,Romanian Liga 1,,CFR 1907 Cluj,j9rqsuwsz35jx5drlh5f629w,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Serbian Super Liga,,FK Partizan Belgrade,c0d1qca7kz0fi0ypx7aw4nusc,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Israelian Ligat Ha'al,,Hapoel Be'er,9ppjmek1r3tb9yddebneaxj7i,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Polish Ekstraklasa,,Lech Poznan,duvz7klp081jpg8fx5nze7ks7,,TRUE,,TRUE,FALSE
-UEFA Europa Conference League,Armenian Premier League,,Pyunik Yerevan,6a568y7uc4jumukhqo96lb5du,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Latvian Virsliga,,Rigas Futbola Skola,d592cup61qbgth2xkawbo7qp1,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Ukranian Premier League,,SC Dnipro-1,b906tqcttb0x1tnbe0zobz8tm,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Irish Premier Division,,Shamrock Rovers,51xekmm31jztuvdliya7idg5d,,TRUE,,TRUE,FALSE
-UEFA Europa Conference League,Czech Republic Czech Liga,,Slavia Prague,8kpapuorr6hf0vosnovbreqqd,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Slovakian Super Liga,,Slovan Bratislava,cmj1019uptq8i042n5y16itbd,,TRUE,,TRUE,FALSE
-UEFA Europa Conference League,Czech Republic Czech Liga,,Slovácko,bp5x8iw8pstucx6s4iqht6xqf,,TRUE,,TRUE,FALSE
-UEFA Europa Conference League,Romanian Liga 1,,Steaua Bucuresti,1bgj5g7kgr54058unwjx90tii,,FALSE,,TRUE,FALSE
-UEFA Europa Conference League,Lithuanian A Lyga,,Zalgiris Vilnius,tqszs9t9rn0xzxxjuhr2ujob,,FALSE,,TRUE,FALSE
-UEFA Europa League,Cypriot 1. Division,,AEK Larnaca,q4y48hs70h74p3waaxxjtdu5,,TRUE,,TRUE,FALSE
-UEFA Europa League,Ukranian Premier League,,Dynamo Kiev,7lgvcey3svf6k22vg5svdztmg,,FALSE,,TRUE,FALSE
-UEFA Europa League,Moldovan Super Liga,,FC Sheriff Tiraspol,dcx559ojp4lgxwc9z9xxbzgre,,FALSE,,TRUE,FALSE
-UEFA Europa League,Azerbaijan Premyer Liqa,,FK Qarabag,dz0fc3304a30bzm9lht0bhpqt,,FALSE,,TRUE,FALSE
-UEFA Europa League,Hungarian NB I,,Ferencvaros,b3o0wckz4w3fusytybpgxftgm,,TRUE,,TRUE,FALSE
-UEFA Europa League,Finnish Veikkausliiga,,HJK Helsinki,303582z192rnbr2x28o2t7u38,,FALSE,,TRUE,FALSE
-UEFA Europa League,Bulgarian First League,,Ludogorets,6uhzci0mwrzly1e4trka6k4ea,,TRUE,,TRUE,FALSE
-UEFA Europa League,Cypriot 1. Division,,Omonia Nicosia,1pf6zmsueuc9tr64ql67gynqc,,TRUE,,TRUE,FALSE
-UEFA Europa League,Serbian Super Liga,,Red Star Belgrade,81lpho34qr3dad0xzalq0abja,,FALSE,,TRUE,FALSE
-UEFA Europa League,Ukranian Premier League,,Shakhtar Donetsk,cf8plcmeniaen0fc5emyb5j93,,TRUE,,TRUE,FALSE
-United Soccer League,,,Arizona United,2iwybwokic7nmr1t33abdbjoq,,FALSE,,TRUE,FALSE
-United Soccer League,,,Birmingham Legion FC,c9xffml4i7ihblp1qhus9w3fu,,FALSE,,TRUE,FALSE
-United Soccer League,,,Charleston Battery,e3k8yw2rbmphyfu5htn4yi5jk,,TRUE,,TRUE,FALSE
-United Soccer League,,,Colorado Springs Switchbacks FC,ak0rmms5xl49w57i2rvid1tk9,,FALSE,,TRUE,FALSE
-United Soccer League,,,Detroit City FC,b1rpb2ox52uxcmjrsnqd95pk5,,FALSE,,TRUE,FALSE
-United Soccer League,,,El Paso Locomotive FC,5h878vnmkbuy2ummddprusxgq,,FALSE,,TRUE,FALSE
-United Soccer League,,,Hartford Athletic,2n3wgr89m7jl8tmioemit2pgq,,TRUE,,TRUE,FALSE
-United Soccer League,,,Indy Eleven,8cpjplodpphtkbt0hq8sr8mqs,,TRUE,,TRUE,FALSE
-United Soccer League,,,Las Vegas Lights FC,7c9knuwazz9k9449u5rnuuy5m,,FALSE,,TRUE,FALSE
-United Soccer League,,,Loudoun United FC,5x54jbfk11lrsmipgsx7cdbai,,FALSE,,TRUE,FALSE
-United Soccer League,,,Louisville City FC,83cpn99fh7ulkwe8nezy8a3mx,,FALSE,,TRUE,FALSE
-United Soccer League,,,Memphis 901 FC,97qwp1m762ftf33iuydwtom0a,,FALSE,,TRUE,FALSE
-United Soccer League,,,Miami FC,bu5w8wprynlj9mvphvy8sd94f,,TRUE,,TRUE,FALSE
-United Soccer League,,,Monterey Bay,kfq8fhwnmycbtad1u0fyefx0,,TRUE,,TRUE,FALSE
-United Soccer League,,,New Mexico United,bk3zg8yaj5uoqhxzwons3bo8a,,TRUE,,TRUE,FALSE
-United Soccer League,,,Oakland Roots,b5l2e3csycjb8twvq9ek0j5gq,,TRUE,,TRUE,FALSE
-United Soccer League,,,Orange County SC,cf5r1qpotp6n5i3vdchsp2en1,,TRUE,,TRUE,FALSE
-United Soccer League,,,Pittsburgh Riverhounds,224tl8u2smnbyliroayk69nt0,,TRUE,,TRUE,FALSE
-United Soccer League,,,Rio Grande Valley FC Toros,6xgplwvdubz72bfz2ih5diyjv,,FALSE,,TRUE,FALSE
-United Soccer League,,,Sacramento Republic FC,7neuneh44n9rtsfsh6r0sb9no,,FALSE,,TRUE,FALSE
-United Soccer League,,,San Antonio FC,87c66ubwpzykovmkaf1t46bis,,FALSE,,TRUE,FALSE
-United Soccer League,,,San Diego Loyal SC,31em58uxag8i9r5c13jitf9ey,,FALSE,,TRUE,FALSE
-United Soccer League,,,Tampa Bay Rowdies,5qfq6cwtrgzd2szijivns7rjl,,TRUE,,TRUE,FALSE
-United Soccer League,,,Tulsa Roughnecks,aj8ytsr2ap33tod0hd8ofzaw9,,FALSE,,TRUE,FALSE
+country,id_opta,team_opta,n_opta,team_clubelo
+ARG,7tev5pifn8hdy4vlts0coha1b,Argentinos Juniors,1,
+ARG,ancihw39hzlr6vjfgl8jsihe1,Arsenal,1,
+ARG,6u0o1i04y2mnw2avru97sn970,Atlético Tucumán,1,
+ARG,3lbqswe4h5wyrayjt580zmujx,Banfield,1,
+ARG,8bh6iyg42ta2y8mgkkgd2hy6o,Barracas Central,1,
+ARG,2biw4all5ru5xiorgyqbevwr1,Belgrano,1,
+ARG,ciqt22ivoc48zj62detdyh1mm,Boca Juniors,1,
+ARG,ag3u5yhvyaxwtebl9xp5e2vaa,Independiente,1,
+ARG,1x5i9dl7uyrh5o2th8ore61e6,Central Córdoba SdE,1,
+ARG,64a7qygl90q6k3319f29fwduo,Colón,1,
+ARG,1n4ioqcbh1hemy9ezzu6v86n7,Defensa y Justicia,1,
+ARG,91j32z6ga16tjj140ss2i24mt,Estudiantes,1,
+ARG,1rio0xlpk4s2ttmchsqjs6eik,Gimnasia La Plata,1,
+ARG,1we2nqwg18sjn6cevduuapbkf,Godoy Cruz,1,
+ARG,3rw8ouixzsh3x8dgy8ifev925,Huracán,1,
+ARG,2zjoq67ogz8lmaoesxkubxhp6,Instituto,1,
+ARG,19ij50t7wklqr3w2bye5r7tp4,Lanús,1,
+ARG,3oj3koph7uf63y1f9zr8r7ylo,Newell's Old Boys,1,
+ARG,d08q2rnrt7mss1axbuu595tyu,Platense,1,
+ARG,39acfbxikh52o6y9opfb0q0nb,Racing Club,1,
+ARG,115foion8jwrvp2e7xif675kx,River Plate,1,
+ARG,e8ma1lonj51sqmwy00mwnw1ke,Rosario Central,1,
+ARG,2sciofe2reang4qdncm1bihgr,San Lorenzo,1,
+ARG,1tsjuhn8qeikaj837w2ybx77n,Sarmiento,1,
+ARG,ajeh0pq7dtphe0btz4wc4xb0g,Talleres de Córdoba,1,
+ARG,cs3122cdx3g2nviltzfilmz5c,Tigre,1,
+ARG,5o5wtxn03ktvxcdrpxht5aqdp,Unión,1,
+ARG,a3kgi895b7b3ecfzmoyxbw2pl,Vélez Sarsfield,1,
+AUS,6lezh5aazy0xca1800e5dqxwl,Adelaide United,1,
+AUS,v046no35g7ebk8lytdjmfb43,Brisbane Roar,1,
+AUS,c4ygb6mnh53kpl2mpxe52l8jw,Central Coast Mariners,1,
+AUS,7jv344gvcvgqg7oeuc9u554dm,Macarthur,1,
+AUS,c33jm806py6adse5wv9wx6ch1,Melbourne City,1,
+AUS,9xmhnv6im8h7c9e17oqvcx8gl,Melbourne Victory,1,
+AUS,chu9blh367xs3yumct5tqto2q,Newcastle Jets,1,
+AUS,cuj4qahgk4idsme4dg8clk6gw,Perth Glory,1,
+AUS,38ui5tfi8anjuh533emny2tz1,Sydney,1,
+AUS,6j4xzc2g1eeafo6v1f38d4x22,Wellington Phoenix,1,
+AUS,6h553bwfqkoxayuv80uikkn42,Western Sydney Wanderers,1,
+AUS,7p460lrzt1kmp4rsofqa47eqy,Western United,1,
+AUT,9ws0f9wf5r8mdigwo0xpzv06v,Austria Lustenau,1,Austria Wien
+AUT,3lcvs7iiylixau81d0lruwsak,Rheindorf Altach,1,
+AUT,bonj6qc7po4anunhydmjmi6g5,Salzburg,1,Salzburg
+AUT,84gk4ytf9vr8oml51cqyit78w,Austria Wien,1,
+AUT,1vli32f09v65mc3vc6yh34z9f,Hartberg,1,Hartberg
+AUT,boxkkgnpn38ywao4kzu7dx58h,LASK,1,LASK
+AUT,eljjik2vvlpy6d649mgwwivam,Rapid Wien,2,Rapid Wien
+AUT,eljjik2vvlpy6d649mgwwivam,Rapid,2,Rapid Wien
+AUT,8fw92w95mzdtzm4vxhsglfopu,Austria Klagenfurt,1,Klagenfurt
+AUT,4lauow63npvttmvxgh2koqb0r,Sturm Graz,1,Sturm Graz
+AUT,do3l4dhs0ooog6se728jxc06z,Ried,1,Ried
+AUT,7uh2y9tk3j8dk6zinfu38pygi,WSG Tirol,1,
+AUT,9pn4d8sj6pmqidrhhlvev437k,Wolfsberger AC,1,Wolfsberg
+ENG,1pse9ta7a45pi2w2grjim70ge,AFC Bournemouth,1,Bournemouth
+ENG,4dsgumo7d4zupm2ugsvm4zm4d,Arsenal,1,Arsenal
+ENG,b496gs285it6bheuikox6z9mj,Aston Villa,1,Aston Villa
+ENG,7yx5dqhhphyvfisohikodajhv,Brentford,1,Brentford
+ENG,e5p0ehyguld7egzhiedpdnc3w,Brighton & Hove Albion,1,Brighton
+ENG,9q0arba2kbnywth8bkxlhgmdr,Chelsea,1,Chelsea
+ENG,1c8m2ko0wxq1asfkuykurdr0y,Crystal Palace,1,Crystal Palace
+ENG,ehd2iemqmschhj2ec0vayztzz,Everton,1,Everton
+ENG,hzqh7z0mdl3v7gwete66syxp,Fulham,1,Fulham
+ENG,48gk2hpqtsl6p9sx9kjhaydq4,Leeds United,1,Leeds
+ENG,avxknfz4f6ob0rv9dbnxdzde0,Leicester City,1,Leicester
+ENG,c8h9bw1l82s06h77xxrelzhur,Liverpool,1,Liverpool
+ENG,a3nyxabgsqlnqfkeg41m6tnpp,Manchester City,1,Man City
+ENG,6eqit8ye8aomdsrrq0hk3v7gh,Manchester United,1,Man United
+ENG,7vn2i2kd35zuetw6b38gw9jsz,Newcastle United,1,Newcastle
+ENG,1qtaiy11gswx327s0vkibf70n,Nottingham Forest,1,Forest
+ENG,d5ydtvt96bv7fq04yqm2w2632,Southampton,1,Southampton
+ENG,22doj4sgsocqpxw45h607udje,Tottenham Hotspur,1,Tottenham
+ENG,4txjdaqveermfryvbfrr4taf7,West Ham United,1,West Ham
+ENG,b9si1jn1lfxfund69e9ogcu2n,Wolverhampton Wanderers,1,Wolves
+BEL,6vyr13j6kbwdtxjwm1m4m8nu2,Anderlecht,1,Anderlecht
+BEL,7zibyotq1x1hq6pmgibhr0e6s,Antwerp,1,Antwerp
+BEL,3ix9om1svhd6obl0mbk1otgop,Cercle Brugge,1,Cercle Brugge
+BEL,1oyb7oym5nwzny8vxf03szd2h,Club Brugge,1,Brugge
+BEL,9njsy633rh1tyri7l2jaju5o,AS Eupen,1,Eupen
+BEL,89xivtxk59uzvhdsd6miao6tm,Genk,1,Genk
+BEL,8y3iucyxguipljcmf87a11bk9,Gent,1,Gent
+BEL,1uk609mhtsfhokhaewjapb26,Kortrijk,1,Kortrijk
+BEL,b7jmo07lqav0wfe2mtlzyspak,Mechelen,1,Mechelen
+BEL,2b57rbw94i9ohnbch52owvqtq,KV Oostende,1,Oostende
+BEL,2nhn3ikl1ciq34w3hcp883d6p,Westerlo,1,Westerlo
+BEL,bw9wm8pqfzcchumhiwdt2w15c,OH Leuven,1,Leuven
+BEL,jb4xejoxjfk5a0a50bo8hvst,RFC Seraing,1,Seraing
+BEL,547zzwqbiugzphhnrhj3z5k5i,Zulte Waregem,1,Zulte Waregem
+BEL,920raeoumft3q2wmvc296uceo,Sporting Charleroi,1,Charleroi
+BEL,2989v3kho9h5jaboe1nr7lx21,Sint-Truiden,1,St Truiden
+BEL,5z1b7fuvpqe6vnigvopomvecu,Standard Liège,1,Standard
+BEL,ecj1gmc7pqcjo4sc9hvghj5u3,Union Saint-Gilloise,1,St Gillis
+BRA,d0tpuy1w8ckf8iiea01t1aob5,América Mineiro,1,
+BRA,1f6qzkdjh8fih5ii1eyqmkolq,Atlético Mineiro,1,
+BRA,5h3amvo8ykt01u4h3upw3c5qf,Athletico Paranaense,1,
+BRA,e93fgat6j6g86zqul1m3m2kpn,Bahia,1,
+BRA,2x94b2pn1o1tb5l1bbu8x9yu9,Botafogo,1,
+BRA,4ayjm36vlnc5j8jhwpsdwxuph,RB Bragantino,1,
+BRA,f0td6lvs326lppbwh1fj8v2ls,Corinthians,1,
+BRA,ewfcgj6z5nzaswg3n2qwtmut8,Coritiba,1,
+BRA,bd6vujl7jfv4wtc8gvo1o1t5y,Cruzeiro,1,
+BRA,3oau1zwakraexd8ej8xvtlaqo,Cuiabá,1,
+BRA,102ykb145wz6dtveg65nistwm,Flamengo,1,
+BRA,2ldx5vhhqfz2rllkgp7wpa744,Fluminense,1,
+BRA,1vvaya787s5wg5geudzacya7m,Fortaleza,1,
+BRA,5umkgpd22oex45aoco3wqgddl,Goiás,1,
+BRA,1yd80wg4djlmtgkei51x0x4t6,Grêmio,1,
+BRA,c7n1isjmpyqt5pj51yekr08wo,Internacional,1,
+BRA,b9d2xcvxxcwplyp4le9ulnlv9,Palmeiras,1,
+BRA,1icvp50kgaw8oduqmhyt3iex0,Santos,1,
+BRA,5p301ikmaba9gesscss3zo745,São Paulo,1,
+BRA,5ponlslulpugdlvd93n9yqu2b,Vasco da Gama,1,
+DEN,a9vw7ikerpr4cuweeeka5aneg,Horsens,1,Horsens
+DEN,5rz9enoyknpg8ji78za5b82p0,AGF,1,Aarhus
+DEN,36g6ifzjliec1jqnbtf7yesme,AaB,1,Aalborg
+DEN,9qsmopgutr7ut5g6workk8w4i,Brøndby,1,Brondby
+DEN,b3r6d8ydtmtjckam6pku9y400,København,1,FC Kobenhavn
+DEN,59as3grjvj19voay31j3yfgni,Midtjylland,1,Midtjylland
+DEN,77tfx9me4aaqhzv78bmgsy9bg,Nordsjælland,1,Nordsjaelland
+DEN,anga7587r1zv4ey71ge9zxol3,Lyngby,1,Lyngby
+DEN,dbl7ir1qugqz8nvp1vzn8im50,OB,1,Odense
+DEN,9w3sjm5ml4sjr2v81oxzdrt8v,Randers,1,Randers
+DEN,ahnt9ejgwj58ul8auzdvi3czf,Silkeborg,1,Silkeborg
+DEN,cftj6g399tknheudaxsdpfdgb,Viborg,1,Viborg
+NED,3kfktv64h7kg7zryax1wktr5r,AZ,1,
+NED,d0zdg647gvgc95xdtk1vpbkys,Ajax,1,Ajax
+NED,ears40cp6opsgvhsy0dgyszpd,Cambuur,1,Cambuur
+NED,3t0vjqtxc8wpjzv82i3oi2ova,Emmen,1,Emmen
+NED,dqk062lu0vm8epvytbm6r4mmf,Excelsior,1,Excelsior
+NED,cos9hxi16eitbcbthof7zrm4m,Groningen,1,Groningen
+NED,4tic29sox7m39fy1ztgv0jsiq,Twente,1,Twente
+NED,ccpscwdcm65czscrun048ecn5,Utrecht,1,Utrecht
+NED,6g9qrm72224jrk6tkxxxi8a9n,Volendam,1,Volendam
+NED,20vymiy7bo8wkyxai3ew494fz,Feyenoord,1,Feyenoord
+NED,3ebril33e08ddzob4bhq8awsr,Fortuna Sittard,1,Sittard
+NED,b79uipsy57y1jqpy07h4i5ovk,Go Ahead Eagles,1,Go Ahead Eagles
+NED,4vd2t5schmvvufrfib7f2vjdf,Heerenveen,1,Heerenveen
+NED,8iawijq7s9s6d85mjz8wdslki,NEC,1,
+NED,24fvcruwqrqvqa3aonf8c3zuy,PSV,1,PSV
+NED,ed5nwjz5za3oyi20nxzgqivmx,RKC Waalwijk,1,
+NED,89w5c6pw7vn0dxypi61tt0g4k,Sparta Rotterdam,1,Sparta Rotterdam
+NED,6hsriqr3ybvyg94w2k19oal50,Vitesse,1,Vitesse
+ENG,8kreqtde5jdktcib0kg7dknac,Birmingham City,1,Birmingham
+ENG,ep3im6aygoatju4u3ws8v3mog,Blackburn Rovers,1,Blackburn
+ENG,f1ni8k09kpdcwmkasi69rl0bz,Blackpool,1,Blackpool
+ENG,c5485h5qulh4l0k0py5b9xug1,Bristol City,1,Bristol City
+ENG,64bxxwu2mv2qqlv0monbkj1om,Burnley,1,Burnley
+ENG,3ash57c0q2tgok6gvzbsta93,Cardiff City,1,Cardiff
+ENG,dacoc20k0n3fxu4zek8wufmko,Coventry City,1,Coventry
+ENG,5n5baro467i8s8efkra3nhgux,Huddersfield Town,1,Huddersfield
+ENG,f0figafm2v9h8ofo6slajj7xf,Hull City,1,Hull
+ENG,aksa492u5hf93giwcn2zt1nzz,Luton Town,1,Luton
+ENG,cq0jd5ztepqjjeikk5trb15vr,Middlesbrough,1,Middlesbrough
+ENG,40d2qd8lr1tgsvmg5l1fzaf4o,Millwall,1,Millwall
+ENG,suz80crpy3anixyzccmu6jzp,Norwich City,1,Norwich
+ENG,5kq4izdz28qjaxoa6ujclwghj,Preston North End,1,Preston
+ENG,72nmbktwvcj3wizfp37yjf0dp,Queens Park Rangers,1,QPR
+ENG,egm6z8hhksfg8f6a49jigczxh,Reading,1,Reading
+ENG,6m5s30n9ej0dqfk1hfyrlkhdw,Rotherham United,1,Rotherham
+ENG,bws31egwjda253q9lvykgnivo,Sheffield United,1,Sheffield United
+ENG,4qioq44vcv619vnyy2rpovk4e,Stoke City,1,Stoke
+ENG,1r3545b2dzan8yqa80gtmcjch,Sunderland,1,Sunderland
+ENG,410jti6axb01yhvbc0axsp8li,Swansea City,1,Swansea
+ENG,4t83rqbdbekinxl5fz2ygsyta,Watford,1,Watford
+ENG,d1lhefp805y0rcbjqkpu4fq0n,West Bromwich Albion,1,West Brom
+ENG,dmypntcdsl5w8w8pcqs0b8mpj,Wigan Athletic,1,Wigan
+ENG,5qwskbjpa17fvmtuu5qijy7cz,Accrington Stanley,1,
+ENG,9db4t34qy4owglhvvgwf5l22i,Barnsley,1,
+ENG,69t8imcdaqlgfbds2p58596my,Bolton Wanderers,1,
+ENG,5pfqedkme2kabtqhkln35pf3l,Bristol Rovers,1,
+ENG,8mbtyq0has0uu0565fm9t5cdo,Burton Albion,1,
+ENG,dmz37633qbsvl7gncq5s51yjw,Cambridge United,1,
+ENG,2ezfenuwk3y65p8jdbj55xqt0,Charlton Athletic,1,
+ENG,fvr504m6gaxsfmtx4fwm7iq1,Cheltenham Town,1,
+ENG,3ptd7zlc5isrongig0wij2id4,Derby County,1,
+ENG,dv9l02o316cd9hbkxaho2u12f,Exeter City,1,
+ENG,8rfydplrc9ki0sirqi0drcybk,Fleetwood Town,1,
+ENG,17zuelixesst1z59fwcix2dil,Forest Green Rovers,1,
+ENG,8b523ujgl21tbc01me65q0aoh,Ipswich Town,1,
+ENG,b3vbyitzi3nrw9ehj1eoko219,Lincoln City,1,
+ENG,8w89tsles26jm12aoelwvlttt,Milton Keynes Dons,1,
+ENG,8xeuwzxnm7hdlbjjuezgfkz3w,Morecambe,1,
+ENG,ahm0t06rup1bkd9z0mxl2lmph,Oxford United,1,
+ENG,5jjqm8h6qm1w4s5f93uubhdrj,Peterborough United,1,
+ENG,5g1fnexeromjl0lvnxp8hpnhi,Plymouth Argyle,1,
+ENG,ejm092fnt9zoxbpuklzd52ji8,Port Vale,1,
+ENG,80jtkz2echk6yyyb9e2595cxr,Portsmouth,1,
+ENG,1musyruv2ufjrjnj6gvdbr8kt,Sheffield Wednesday,1,
+ENG,82kapkjwonlv9j1ui0ytv5sii,Shrewsbury Town,1,
+ENG,jv3jh5m5t7qy5t37vwwmnj16,Wycombe Wanderers,1,
+ENG,7sck2yj98lv9ogljofza0c7f9,AFC Wimbledon,1,
+ENG,2h0f9b45mwop10akb6bp7qx3,Barrow,1,
+ENG,2b5k2yusdx2ctd5cdv739p3il,Bradford City,1,
+ENG,4wqa3vdd3owvzbdpmh91uvvhp,Carlisle United,1,
+ENG,crpd0wug26fg7skfzmf11x1k2,Colchester United,1,
+ENG,41pv4kcoqzdkswdzqhll8ellb,Crawley Town,1,
+ENG,9ze1c55gavzeg6vw37ca1banb,Crewe Alexandra,1,
+ENG,6dryhu9wer42nt1dxoophpk96,Doncaster Rovers,1,
+ENG,2597fv0oiboak9jyryf3gt39g,Gillingham,1,
+ENG,6ipyteigr21t78l6fro3ig10j,Grimsby Town,1,
+ENG,bkzx43uwodxey51ivfvbqf37g,Harrogate Town,1,
+ENG,47loqs7917u2rbhl1cqdupbre,Hartlepool United,1,
+ENG,2fhm98swvvbztf9cy67juhpas,Leyton Orient,1,
+ENG,4hcdmgl41o4blqpbeelu56h7y,Mansfield Town,1,
+ENG,bewbbriuwh3i7a2zn19e6d0v4,Newport County,1,
+ENG,761h1nqgu3ogxgvp8ubb71r00,Northampton Town,1,
+ENG,dqitrs0w52z0p9f4t07z0aqzw,Rochdale,1,
+ENG,2dakjegmrc2cxx2hqq5wzegt,Salford City,1,
+ENG,6xhqd6it53k2s5n7veo817ga4,Stevenage,1,
+ENG,5adikbrse2tjc3zthxrx8ic2k,Stockport County,1,
+ENG,868eewpas8ksqiyprnczkpran,Sutton United,1,
+ENG,9ws3x82yqn7svjq6onvtunpst,Swindon Town,1,
+ENG,9j48z9ohucqbzpneoghrgwevs,Tranmere Rovers,1,
+ENG,1tev1lioyfaxbk2uod5uekzyj,Walsall,1,
+FRA,6xjy1q2m55iiwe8g1r1yffbc9,Ajaccio,1,Ajaccio
+FRA,4t4hod56fsj7utpjdor8so5q6,Monaco,1,Monaco
+FRA,75qj99fhg5c0ztj2tva5u4uii,Angers SCO,1,Angers
+FRA,9bxav814mkuhueiyivyive82d,Auxerre,1,Auxerre
+FRA,3adj8hkws0z1al232bg2h6tk0,Brest,1,Brest
+FRA,17o35s8assv3kamxowzz77k4r,Clermont,1,Clermont
+FRA,3xedluek08t2ka7oypwuullcn,Lens,1,Lens
+FRA,be2k34rut1lz79jxenabttqlc,Lille,1,Lille
+FRA,70nn27vgkt6l48lvv5e66q7ww,Lorient,1,Lorient
+FRA,121le8unjfzug3iu9pgkqa1c7,Olympique Lyonnais,1,Lyon
+FRA,27xvwccz8kpmqsefjv2b2sc0o,Olympique Marseille,1,Marseille
+FRA,2cjpmotqo8phcqfpgo9xf4gel,Montpellier,1,Montpellier
+FRA,750ustvk4jfqmo8q4gnrcxy7z,Nantes,1,Nantes
+FRA,bx0cdmzr2gwr70ez72dorx82p,Nice,1,Nice
+FRA,2b3mar72yy8d6uvat1ka6tn3r,PSG,1,Paris SG
+FRA,3c3jcs7vc1t6vz5lev162jyv7,Reims,1,Reims
+FRA,z1wbqtd0fz5t5eezjvrbld3h,Rennes,1,Rennes
+FRA,71ajatxnuhc5cnm3xvgdky49w,Strasbourg,1,Strasbourg
+FRA,4aghw9tyi8ba3ju1ne83gmf9w,Toulouse,1,Toulouse
+FRA,3unkqo2g6ag99gd5ynz1j7vse,Troyes,1,Troyes
+FRA,5191cnvhmuct5kn7yvr0nvd9d,Amiens SC,1,Amiens
+FRA,6sqrk45zcfgwpq97no19o9sk5,Annecy,1,Annecy
+FRA,6l07ga27xfsr7485fuc1ilkkc,Bastia,1,Bastia
+FRA,98dr7jscv8adc8zgi2u403oij,Bordeaux,1,Bordeaux
+FRA,ab80vest6tgco121qtfyphq7c,Caen,1,Caen
+FRA,79dc2mv3x269nhix3mkhc5wfu,Dijon,1,Dijon
+FRA,2ku5qqmv6i842rujioksaatx7,Grenoble Foot 38,1,Grenoble
+FRA,e9mmk1w7cem6r4wysgassacef,Guingamp,1,Guingamp
+FRA,75gwk94q9jkoh78jk8nlay4xj,Laval,1,Laval
+FRA,23pqcgxu1tip265hbe01kszbt,Le Havre,1,Le Havre
+FRA,2khen2a38l2hkx33s73pehl6o,Metz,1,Metz
+FRA,ackp3k0zn4tukl6ejvn3ajnjz,Nîmes,1,Nimes
+FRA,7vnnz5z9l3zqyaadfsidi7mh0,Niort,1,Niort
+FRA,8v00fx2zwhiwm05tqqkt122p5,Paris FC,1,Paris FC
+FRA,25s5qx846iw05y8t9pinrbhh1,Pau,1,Pau
+FRA,2u30h0xpbfzv0byj4j7d8c4ug,Rodez,1,Rodez
+FRA,d9kwaceoj54pfprd6oc2hwae6,Sochaux,1,Sochaux
+FRA,2sc9xfhu6tbru9hhlhr4a89zn,Saint-Étienne,1,Saint-Etienne
+FRA,8ng94h4147jxd5oxgoaa95yl4,Quevilly Rouen,2,US Quevilly
+FRA,8ng94h4147jxd5oxgoaa95yl4,Quevilly-Rouen Métropole,2,US Quevilly
+FRA,g8cvbv4wrvq7uf4347yjkd35,Valenciennes,1,Valenciennes
+GER,3xcg7xikgrn2x8oa65sopb2is,Heidenheim,1,Heidenheim
+GER,dmw05a03pgt48fnf9ikxs6i1o,Kaiserslautern,1,Lautern
+GER,7tsc39uwtnq238hrx6d9zi3xy,Magdeburg,1,Magdeburg
+GER,c8rdmlwqz77xe8yzv3r881dz3,Nürnberg,1,Nuernberg
+GER,bdlavlqj0dshxnepyfanzwu47,Arminia Bielefeld,1,Bielefeld
+GER,kxpw3rqn4ukt7nqmtjj62lbn,Eintracht Braunschweig,1,Braunschweig
+GER,85jtaw5dcxxx1yp8te6axh3p8,St. Pauli,1,St Pauli
+GER,8cf22o379ziez932kkzoi1d8q,Fortuna Düsseldorf,1,Duesseldorf
+GER,75xi6hloabmnjn2kzgj1g8h1s,Hamburger SV,1,Hamburg
+GER,5lidfwkteyu9dj9ysmdq2v4tk,Hannover 96,1,Hannover
+GER,32yd2iyyibspuyakdizwy8g3n,Hansa Rostock,1,Rostock
+GER,6zwg0wxjie31da2i4wwh2h4ho,Holstein Kiel,1,Holstein
+GER,d4p104ikzzt5hfwdzppbmp7e0,Jahn Regensburg,1,Regensburg
+GER,aojwbjr39s1w2mcd9l2bf2dhk,Karlsruher SC,1,Karlsruhe
+GER,62ljqd4za2a6svd9wgctg8b53,Paderborn,1,Paderborn
+GER,1y7e48j8swyafegsucvewse5a,Darmstadt 98,1,Darmstadt
+GER,884uzyf1wosc7ykji6e18gifp,Sandhausen,1,Sandhausen
+GER,9dlxuym0eab00j9ggrdr87soj,Greuther Fürth,1,Fuerth
+GER,a8d2gb2nag8fy0itbuxmcibh2,Union Berlin,1,Union Berlin
+GER,7ad69ngbpjuyzv96drf8d9sn2,Bayer Leverkusen,1,Leverkusen
+GER,apoawtpvac4zqlancmvw4nk4o,Bayern München,1,Bayern
+GER,dt4pinj0vw0t0cvz7za6mhmzy,Borussia Dortmund,1,Dortmund
+GER,go76xxm0xyfgqt1h6tcrtimm,Borussia M'gladbach,1,Gladbach
+GER,c5hderjlkcoaze51e5wgvptk,Eintracht Frankfurt,1,Frankfurt
+GER,ex3psl8e3ajeypwjy4xfltpx6,Augsburg,1,Augsburg
+GER,8q1ul09cygzswb7tb456bmifv,Köln,1,Koeln
+GER,f0w62l8zql3tukxsy8fqwp72x,Hertha BSC,1,Hertha
+GER,1c7qokc1j5z50cjj4tcu32haa,Mainz 05,1,Mainz
+GER,9gefq4dz9b2hl8rqrxwrlrzmp,RB Leipzig,1,RB Leipzig
+GER,6k5zscdm9ufw0tguvzyjlp5hq,Freiburg,1,Freiburg
+GER,cz4a6wmzx2obyisadhgaccx7b,Schalke 04,1,Schalke
+GER,4l9mrqzmajz5crzlz50mtbt6x,Hoffenheim,1,Hoffenheim
+GER,3dwlvz6cl4lcavvrg0y2dycrt,Stuttgart,1,Stuttgart
+GER,eq1oq6y61xnzq88zu0cnw131z,Bochum,1,Bochum
+GER,a8l3w3n0j99qjlsxj3jnmgkz1,Wolfsburg,1,Wolfsburg
+GER,cu0eztmjcsbydyp53aleznorw,Werder Bremen,1,Werder
+GRE,7ruua9q5rtswwi5d6xtquuto5,AEK Athens,1,AEK
+GRE,90z9l1k46z46ep9oupipgganh,Aris,1,Aris
+GRE,c53eublb5ds9v1rlscm8x39pq,Asteras Tripolis,1,Asteras Tripolis
+GRE,4gex5os8jassavy6lopipbcz3,Atromitos,1,Atromitos
+GRE,1kij1j9oyr97sxtd0hvgnre10,PAS Giannina,1,Giannina
+GRE,gafj2w5j6j5u1k05xdgi3yqp,Ionikos,1,Ionikos
+GRE,8f2ud0np10grf6a1ke620ma4s,Lamia,1,Lamia
+GRE,1j8ifp7frhzci6o6kvnl1glif,Levadiakos,1,Levadeiakos
+GRE,dr4emys1xpm2h54oid0q5y2nx,OFI,1,OFI
+GRE,9ghx7vbghs3628n5chm9r8ig3,Olympiakos Piraeus,1,Olympiakos
+GRE,deazflnflqmejndo05gviznzd,PAOK,1,PAOK
+GRE,4ws3k9155net1ydbvr8c940dy,Panathinaikos,1,Panathinaikos
+GRE,dozhxtpww3paixmvttljtduge,Panaitolikos,1,Panetolikos
+GRE,937i26v5naqzhwxcelwtgou3u,Volos NFC,1,NFC Volos
+ITA,9dntj5dioj5ex52yrgwzxrq9l,Milan,1,Milan
+ITA,2tk2l9sgktwc9jhzqdd4mpdtb,Roma,1,Roma
+ITA,e75syeuawg3ql8nwpi3vr2btz,Atalanta,1,Atalanta
+ITA,ej5er0oyngdw138yuumwqbyqt,Bologna,1,Bologna
+ITA,af91jdcs6x0bqkmdb78rokod2,Cremonese,1,Cremonese
+ITA,8le3orkfz6iix3jns6g9ojqjg,Empoli,1,Empoli
+ITA,4raiad4l2j5lkfaz92pk4osb,Fiorentina,1,Fiorentina
+ITA,3vo5mpj7catp66nrwwqiuhuup,Internazionale,1,Inter
+ITA,bqbbqm98ud8obe45ds9ohgyrd,Juventus,1,Juventus
+ITA,btcy9nra9ak4m22ovr2ia6m5v,Lazio,1,Lazio
+ITA,bi1fxjrncd0ram0oi7ja1jyuo,Lecce,1,Lecce
+ITA,67z1gqyiuzpmmb15q5fy7ntc4,Monza,1,Monza
+ITA,gi0l1habji5hpgar77dl5jqe,Napoli,1,Napoli
+ITA,49rkyo4do8uwj06geomw0xr4i,Salernitana,1,Salernitana
+ITA,4plikfte18rv8v4l89z803d4y,Sampdoria,1,Sampdoria
+ITA,6tuibxq39fdryu8ou06wcm0q3,Sassuolo,1,Sassuolo
+ITA,4klvxyeh3xcus4ongu7c00mgc,Spezia,1,Spezia
+ITA,7gnly6999wao1xarwct4p8fe9,Torino,1,Torino
+ITA,dxq76zcvnokq07cszdx0i6kve,Udinese,1,Udinese
+ITA,ap6blbxhq9elm62vw6tutzlwg,Hellas Verona,2,Verona
+ITA,ap6blbxhq9elm62vw6tutzlwg,Verona,2,Verona
+ITA,dibn6hjca9timadlm3pqve4z9,Ascoli,1,Ascoli
+ITA,e2hi197ydanctu9i74tonpt4r,Bari,1,Bari
+ITA,4cq1gkb2yelnvz4z7jdo6q81,Benevento,1,Benevento
+ITA,a80afp6w8wof6ci633u8k93de,Brescia,1,Brescia
+ITA,5rwlg5cfv1hu7yf0ek1zxpzy3,Cagliari,1,Cagliari
+ITA,dlda35ece1taoufqhscwnf6jq,Cittadella,1,Cittadella
+ITA,6uzfw7ahyxg4wrrfxo5u7qt0n,Como,1,Como
+ITA,borsok34ukkl30nox3azxw3wq,Cosenza,1,Cosenza
+ITA,565sm63rjm2y7xeae0dcdbtnu,Venezia,1,Venezia
+ITA,5khizzei8z0qbb7exz622wxw3,Frosinone,1,Frosinone
+ITA,4kumqzwifv478caxed8zywlh3,Genoa,1,Genoa
+ITA,n1m34lh0h7dfk0ag9h0zcxgh,Modena,1,Modena
+ITA,2ungwfinfq61qrc6py1skd7ds,Palermo,1,Palermo
+ITA,5aosfavi55p40c65lkriqnqnl,Parma,1,Parma
+ITA,60gjrw8umdjqn8tp31d1nfwye,Perugia,1,Perugia
+ITA,bfztlrr6176xsdt2bmp0u1d2d,Pisa,1,Pisa
+ITA,42kf8o5u7a1yab8fcis8vrz0s,Reggina,1,Reggina
+ITA,1vgjxh0up351qa1q54ifmyxa1,SPAL,1,Spal
+ITA,4os8c4tugzqwx4hef5g7lic78,Südtirol,1,Suedtirol
+ITA,e361o6jsbyqoimblxx30fcw1a,Ternana,1,Ternana
+JPN,12tyw9yomy9n5cjd5po2ajx1q,Albirex Niigata,1,
+JPN,ydlnn8jofdkseegh42az3fpt,Avispa Fukuoka,1,
+JPN,90cc40yau7yv6n8r4xs361ofd,Cerezo Osaka,1,
+JPN,1f3ehp8p9yi8reamghry4p76t,Consadole Sapporo,1,
+JPN,e90fnsgtnamze3yssxpg392eb,Tokyo,1,
+JPN,92br3632xgmc25jvr0jesfvl6,Gamba Osaka,1,
+JPN,9s2g5k3dlmfii452t8edaeozh,Kashima Antlers,1,
+JPN,3lyo0vqgndy4fuzlfo5l9ql30,Kashiwa Reysol,1,
+JPN,5pol481515zvirmk6t00kerbc,Kawasaki Frontale,1,
+JPN,6bus1cl4b6zdm93290r02o7cx,Kyoto Sanga,1,
+JPN,18c8ibslzapz40lfb8y5vygcs,Nagoya Grampus,1,
+JPN,27o8mdqno6jslcjb709sxjwyy,Sagan Tosu,1,
+JPN,89wr6p2dkh7wjxtbwhtsruu02,Sanfrecce Hiroshima,1,
+JPN,83d6z6wvkzs3dx9oy3mftixow,Shonan Bellmare,1,
+JPN,3vfso415vj7uitnunviuzdyg3,Urawa Reds,1,
+JPN,bbt5nqwufsne7r0zfa6pvpmfa,Vissel Kobe,1,
+JPN,2cwez3hk2i75ope3qyu54cqh1,Yokohama F. Marinos,1,
+JPN,ctm9as17rs95yhuz7qf53wfke,Yokohama,1,
+USA,943ue6l8ylnidoygbi9p8op2h,Atlanta United,1,
+USA,yrsr1hyy65062qyzw8sug3ys,Austin,1,
+USA,dqq34048nqex146r77i5l8twq,Charlotte,1,
+USA,apsqaaege20za4re5wm6bzq9a,Chicago Fire,1,
+USA,cvrl5bces32x6fup1ks1hvets,Colorado Rapids,1,
+USA,chjb0xe5vlaaguop3q2nbalni,Columbus Crew,1,
+USA,5qw82lpi6fio4fbljihlyyulb,DC United,1,
+USA,652hppivbqchvrp3wopx1isyt,Cincinnati,1,
+USA,4gi4qw4gt6nfq0c6r8y574qgp,Dallas,1,
+USA,69m5c06m9up1j8vf8ulnb80xu,Houston Dynamo,1,
+USA,7a7uyvix8axi28h7d3bwl4tbe,Inter Miami,1,
+USA,c6e7kqqrkt389ysrth6yy6puy,Los Angeles,1,
+USA,6qr5y32dthc4dqycckwmfj1si,LA Galaxy,1,
+USA,dna80a164iz5ta6pp6ivk64rx,Minnesota United,1,
+USA,oisd4xgg4qxt18c7tikdejbe,Montréal,1,
+USA,1oogd0fpwledjm2ycsuv7afze,Nashville SC,1,
+USA,3ko4vrn7aouqpdr21sv4ipcvj,New England,1,
+USA,1bksy4rix8pm8rjve81uqo8ut,New York City,1,
+USA,7k329us81r2yiw9pakgo5tp6e,New York RB,1,
+USA,eaqreat4kxwvah0bvwg1wtoq5,Orlando City,1,
+USA,aq0m4zmew7kkplbi7fa0pv45c,Philadelphia Union,1,
+USA,77o8sorlijzpr0t4s7231zzxp,Portland Timbers,1,
+USA,29zyafx618w7tvp34n53pzwwb,Real Salt Lake,1,
+USA,a2jg79bf9ab1vj6iok2r328cc,SJ Earthquakes,1,
+USA,3st9rj62b3qnni6uolw0lwaqn,Seattle Sounders,1,
+USA,3olfhpj6emfhceudd95ytb9gy,Sporting KC,1,
+USA,7rh4h3y77fl3s7rdqp61si49g,St. Louis City,1,
+USA,28teusnamw1ujgh5di1auf2f7,Toronto,1,
+USA,cdmq2tqfwo5td2ztv1s62bqlf,Vancouver Whitecaps,1,
+MEX,8jjxbd5vr23vhu1v5r21rzkrn,Atlas,1,
+MEX,54ph1k82y99hhjsf7m2usns8u,Atlético San Luis,1,
+MEX,eu8c408f59yx7egaqossbv25e,América,1,
+MEX,1aw67co8uut64yckd3wbhy9t2,Cruz Azul,1,
+MEX,ecphe4bqgmin2tzsohf50egvd,Juárez,1,
+MEX,e603sojy77s4u0ypqds2v2a1g,Guadalajara,1,
+MEX,2ei66pjfsrr6uxqp1bywq31lo,León,1,
+MEX,dsm1dxw4j3f973w7kzhe2n816,Mazatlán,1,
+MEX,233335xtoe3e3phg3hp91xguq,Monterrey,1,
+MEX,b7hn6knkuxbpj1i8rmzapns7b,Necaxa,1,
+MEX,cynfvfb31rml7xrlsnejf8r6j,Pachuca,1,
+MEX,4kw25nmgmacpbvo24ttr994k5,Puebla,1,
+MEX,ayabrorjqa1bj7jk1fdqu1t57,Pumas UNAM,1,
+MEX,ccye1b5fvtq8tzlz0gosyw10b,Querétaro,1,
+MEX,8yn3l36qkq1fxbw4ufmwyfyt9,Santos Laguna,1,
+MEX,6hmo9mrlz73nwxkshwuu5vsfm,Tigres UANL,1,
+MEX,c1wcescnsnfuyv06enhwaoqr6,Tijuana,1,
+MEX,3390h9hdgoxzzofnrpyktanuz,Toluca,1,
+NOR,3impprc048nbz39w05s18c6yt,Aalesund,1,Aalesund
+NOR,ctvzi2jbl1q6xzq0s3sexj73g,Bodø / Glimt,1,Bodoe Glimt
+NOR,4uhob9fidndruy140dh5ayd6a,Jerv,1,
+NOR,crlocdyqyb1fdhck54qxs65rl,HamKam,1,Ham-Kam
+NOR,d8w1m5j3jbd1eva8524dv4a20,Haugesund,1,Haugesund
+NOR,uqspd1bx7f6mq8ohj50u1k1k,Kristiansund,1,
+NOR,93xj9vmeln0marv6r1uti7but,Lillestrøm,1,Lillestrom
+NOR,45v50owpvshpijizwwlcw4lni,Molde,1,Molde
+NOR,e3b5vandkj5qfay9z6wq87yu,Odd,1,Odd Grenland
+NOR,c7jgkxx1czv5etn7snf1r6p2m,Rosenborg,1,Rosenborg
+NOR,btaf9fuj3xctycyjeqwereaow,Sandefjord,1,Sandefjord
+NOR,doohk95o6e8pkqah8vkop51dg,Sarpsborg 08,1,Sarpsborg
+NOR,ew0hpuiweoltpsg5f51r2w64t,Strømsgodset,1,Stromsgodset
+NOR,80hgdmpkvdrhw1ge9nks2kxvy,Tromsø,1,Tromso
+NOR,8q6cv8g4bd3xdl7m88kll16na,Vålerenga,1,Valerenga
+NOR,bsykw9d70ffqe9atosc92n1e9,Viking,1,Viking
+POR,9ldqu49smv1xg2va0n2cy28zl,Benfica,1,Benfica
+POR,3b4nxgvmwzstmoq6borytkwx1,Boavista,1,Boavista
+POR,26t6lvlpql4w5wu1ih73qpy36,Sporting Braga,1,Braga
+POR,ewsf6evtguu9j7k6js4tlgl89,Casa Pia,1,Casa Pia
+POR,alyavx3ad35bp1xuwmqk7sgev,Chaves,1,Chaves
+POR,22mo7qbsnyi8wtucpvhgvhw2q,Estoril,1,Estoril
+POR,dich5v7sw466smbqap0d9rbyj,Arouca,1,Arouca
+POR,66bsnl0zjb7l5akwo00h0y5me,Porto,1,Porto
+POR,5c0sf1eaipcxvdw9o22of2jdp,Famalicão,1,Famalicao
+POR,bwt8yfk8rkcwiwyr0mopd7wqd,Gil Vicente,1,Gil Vicente
+POR,8gvg1ranyf93hprfkwx3ofl2y,Vitória Guimarães,1,Guimaraes
+POR,7kfx3xpj2c2wxinsyi16i9gaz,Marítimo,1,Maritimo
+POR,491xixnlsp75o7cr3w2gc1o0z,Paços de Ferreira,1,Pacos Ferreira
+POR,co1i764h6b02husae71w6scs8,Portimonense,1,Portimonense
+POR,cgvbluoerzbzcr7aaxge3wkcv,Rio Ave,1,Rio Ave
+POR,cmbqc74mshg77ra7mywec2a6b,Santa Clara,1,Santa Clara
+POR,7catg5lpivcmpf4xhggh6d8rk,Sporting CP,1,Sporting
+POR,7fn0aazbc8nx0u040aulozds1,Vizela,1,Vizela
+RUS,6nfubpry6l0z27drwbvesjpvn,CSKA Moskva,1,CSKA Moskva
+RUS,8mrwjyt72h0oqpj24xi4f7e8s,Dinamo Moskva,1,Dynamo Moskva
+RUS,53ilvf0xy5t0erfwchibmhkes,Khimki,1,FC Khimki
+RUS,17icf335ajx0bgofq41xsz8tv,Krasnodar,1,FC Krasnodar
+RUS,551am27ynhfd2ciffnfz1ehk7,Nizhny Novgorod,1,Nizhny Novgorod
+RUS,c49dcd6hd81tv9f2o9ltxqsfx,Fakel,1,Fakel Voronezh
+RUS,6j1r4zpoysezjln5ro143mqnt,Orenburg,1,Orenburg
+RUS,2kf8wmpaiufla46toezfpguas,Krylya Sovetov,1,Kryliya Sovetov
+RUS,3v69o7jfactkbwba836fnzyr4,Lokomotiv Moskva,1,Lok Moskva
+RUS,c21b842qbf0i82euyl4yb5y0l,Rostov,1,Rostov
+RUS,dv01yd3xywvn4tyrad7pcqjht,Sochi,1,Sochi
+RUS,42qvrbdkk5p9kqrhd0g9er2aq,Spartak Moskva,1,Spartak Moskva
+RUS,akank46134gx4nnpfbm5wttgu,Akhmat Grozny,1,Terek Grozny
+RUS,3f66aqat0e0auj1x9fjeym9u0,Torpedo Moskva,1,Torpedo Moskva
+RUS,8z118klpzvd6vslyas9wugj87,Ural,1,Sverdlovsk
+RUS,1vd9iy5rcvl17r18piwwymg6q,Zenit,1,Zenit
+SCO,841zp0njrq63yv4fvw6lgf60q,Aberdeen,1,Aberdeen
+SCO,dvnjvad3p09dugr79gktlrtll,Celtic,1,Celtic
+SCO,4qdzzur2cuuridyb0jso8mksi,Dundee United,1,Dundee United
+SCO,1hcbcuu846pa3iw6qskiws1cu,Hearts,1,Hearts
+SCO,c9ky1957qli8v2lylfga7io8b,Hibernian,1,Hibernian
+SCO,enzoyc121va61wtmjf4cm7p3d,Kilmarnock,1,Kilmarnock
+SCO,besu5lkqmra07drq1czpr0tk4,Livingston,1,Livingston
+SCO,759fhii7hsnldanli06j5jmf6,Motherwell,1,Motherwell
+SCO,cnnku8uihko7u4th0fms4pvg6,Rangers,1,Rangers
+SCO,87coxipr6ls77tnlba3eselx0,Ross County,1,Ross County
+SCO,ez46dadmx0virt38cgeq2n6pf,St. Johnstone,1,St Johnstone
+SCO,muo4d1nfi1vgyvz5n07tjmoo,St. Mirren,1,St Mirren
+ESP,cobffe32r7g4skka9m19qib63,Almería,1,Almeria
+ESP,3czravw89omgc9o4s0w3l1bg5,Athletic Club,1,Bilbao
+ESP,4ku8o6uf87yd8iecdalipo6wd,Atlético Madrid,1,Atletico
+ESP,agh9ifb2mw3ivjusgedj7c3fe,Barcelona,1,Barcelona
+ESP,82q9159y2u7mkfn3z6hy75r4o,Cádiz,1,Cadiz
+ESP,6f27yvbqcngegwsg2ozxxdj4,Celta de Vigo,1,Celta
+ESP,4yg9ttzw0m51048doksv8uq5r,Elche,1,Elche
+ESP,c8llrezkm3b3op4afrou6b487,Espanyol,1,Espanyol
+ESP,1n1j0wsl763lq7ee1k0c11c02,Getafe,1,Getafe
+ESP,7h7eg7q7dbwvzww78h9d5eh0h,Girona,1,Girona
+ESP,50x1m4u58lffhq6v6ga1hbxmy,Mallorca,1,Mallorca
+ESP,2l0ldgiwsgb8d6y3z0sfgjzyj,Osasuna,1,Osasuna
+ESP,3budh3j9xivsid3ptm8ptpy4k,Rayo Vallecano,1,Rayo Vallecano
+ESP,ah8dala7suqqkj04n2l8xz4zd,Real Betis,1,Betis
+ESP,3kq9cckrnlogidldtdie2fkbl,Real Madrid,1,Real Madrid
+ESP,63f5h8t5e9qm1fqmvfkb23ghh,Real Sociedad,1,Sociedad
+ESP,4jelr92fsge73q39is6qvhxb3,Real Valladolid,1,Valladolid
+ESP,10eyb18v5puw4ez03ocaug09m,Sevilla,1,Sevilla
+ESP,ba5e91hjacvma2sjvixn00pjo,Valencia,1,Valencia
+ESP,74mcjsm72vr3l9pw2i4qfjchj,Villarreal,1,Villarreal
+ESP,4dtdjgnpdq9uw4sdutti0vaar,Deportivo Alavés,1,Alaves
+ESP,13zq8jfp5uydowd3ibknxaffj,Albacete,1,Albacete
+ESP,9dh08biovdh6rzklzlf3zvezi,Burgos,1,Burgos
+ESP,bjltc68ihd23uu3svnq0o3qrs,Eibar,1,Eibar
+ESP,chhfxt372lm29p9b96fr2ho4q,FC Andorra,1,Andorra CF
+ESP,5wxu1zqzg59vcv980gd8f946c,FC Cartagena,1,Cartagena
+ESP,26fes5ubaeq0fk1nay2pj2ob2,Granada,1,Granada
+ESP,1ae3awgwm3i1jds5tfct5441j,Las Palmas,1,Las Palmas
+ESP,3krm0f4yr1l80j1sd7823f9xn,Leganés,1,Leganes
+ESP,4grc9qgcvusllap8h5j6gc5h5,Levante,1,Levante
+ESP,bfp1dwirz7vrihg6eqeo28cng,Lugo,1,Lugo
+ESP,a745ojopc6f75ma1fyfzayono,Mirandés,1,Mirandes
+ESP,7012hpp3p5vg4fzyn3h0yvf09,Málaga,1,Malaga
+ESP,bzkwzatvwahmbzok1ymm5vqa1,Racing Santander,1,Santander
+ESP,clo928vcczjp0mczavs5o7p5k,Real Oviedo,1,Oviedo
+ESP,6iwco2hhg7gp3bc9ywku4881k,Real Zaragoza,1,Zaragoza
+ESP,egfc4v1d08dgbhkw8gxz85bzr,Huesca,1,Huesca
+ESP,959m69bwnvxwr9uta2as4hwdh,Ponferradina,1,Ponferradina
+ESP,9wfi6tgumbrnkp72z8zab89kr,Sporting Gijón,1,Gijon
+ESP,c2v5gyres2yaemc7t3ns323bj,Tenerife,1,Tenerife
+ESP,91yvq2zksnnd51c1t3zdf88yy,Ibiza,1,Ibiza Eivissa
+ESP,aa9u45jhx90v9o0z67czgm3hs,Villarreal II,1,Villarreal B
+SWE,5mbo4f0vps12dr0fcvjn3wyp5,AIK,1,AIK
+SWE,9zqn9ugvg64it0lr5z8cq4g9v,Häcken,1,Haecken
+SWE,ac8jow4mdkvnsv5s0och4qqm,Brommapojkarna,1,Brommapojkarna
+SWE,46yo78zak2j7kaxc5ak1fnm60,Degerfors,1,Degerfors
+SWE,czkf5t3ai00ghwbga03i5aqxw,Djurgården,1,Djurgarden
+SWE,6i936isoyj6d0uuxdj537uc97,Halmstad,1,Halmstad
+SWE,2nnlsjfbcea40t4jeclcbw9lk,Hammarby,1,Hammarby
+SWE,1939bnru25svvgv15k2c7tw2y,Elfsborg,1,Elfsborg
+SWE,evf5hhqgnjhwjsth1m6pawxdp,IFK Göteborg,1,Goeteborg
+SWE,7hlumphk42363z3i2nry2wrzj,Norrköping,1,Norrkoeping
+SWE,durq4oppf7c08tnbzrlebt0uz,Värnamo,1,Varnamo
+SWE,4jg5vd59i24chckyua90dr1lg,Sirius,1,IK Sirius
+SWE,bqtquhot4yruw677rkc607lk6,Kalmar,1,Kalmar
+SWE,93ohqui2qgqm8408viwmm1ken,Malmö FF,1,Malmoe
+SWE,spvvjmk37iid7hsky9g3nce7,Mjällby,1,Mjaellby
+SWE,4mo3tith28qu9za01e8siplsn,Varberg,1,Varbergs
+SUI,5u18kvqiqhup2vd345dci1069,Basel,1,Basel
+SUI,btqfm8txcvhi29sddmc9nr68,Lugano,1,Lugano
+SUI,dk531bvjn5bmeonqs9hbbmfgr,Luzern,1,Luzern
+SUI,b9fc1umgats16gk6wr769wh8a,Sion,1,Sion
+SUI,9kxht4usspzkeyosl567vjrs2,Vaduz,1,
+SUI,3sb3j9l7dbjcalwpirp3u2f9g,Zürich,1,Zuerich
+SUI,9dqlf92t42brv71kvaet67tm4,Grasshopper,2,Grasshoppers
+SUI,9dqlf92t42brv71kvaet67tm4,Grasshoppers,2,Grasshoppers
+SUI,ccwv4ymbs3u0q8xaby4hqb0jz,Servette,1,Servette
+SUI,dty3ktxspuo8ayudnf0egkvx5,St. Gallen,2,StGallen
+SUI,dty3ktxspuo8ayudnf0egkvx5,St.Gallen,2,StGallen
+SUI,ag3mf21yz4g5ypnqr2j28crqb,Winterthur,1,Winterthur
+SUI,5fd9f9bti2cdgb6r1lf8l2bc7,Young Boys,1,Young Boys
+TUR,4iqb7tq3rn4k3ynintvhxhx1i,Adana Demirspor,1,Adana Demirspor
+TUR,84fpe0iynjdghwysyo5tizdkk,Alanyaspor,1,Alanyaspor
+TUR,a7jkz1m32wntcvegrwjbr85t5,Ankaragücü,1,Ankaraguecue
+TUR,9irsyv431fpuqhqtfq9iwxf2u,Antalyaspor,1,Antalyaspor
+TUR,2ez9cvam9lp9jyhng3eh3znb4,Beşiktaş,1,Besiktas
+TUR,c3txoz57mu7w9y1jprvnv2flr,Fatih Karagümrük,1,Fatih Karaguemruek
+TUR,8lroq0cbhdxj8124qtxwrhvmm,Fenerbahçe,1,Fenerbahce
+TUR,esa748l653sss1wurz5ps3228,Galatasaray,1,Galatasaray
+TUR,2agzb2h4ppg7lfz9hn7eg1rqo,Gaziantep FK,1,Gaziantep FK
+TUR,8mr4jglhwoc9fs6ws8mp96qqf,Giresunspor,1,Giresunspor
+TUR,efy1nhpn5l6hc27znhsptegba,Hatayspor,1,Hatayspor
+TUR,47njg6cmlx5q3fvdsupd2n6qu,İstanbul Başakşehir,1,Bueyueksehir
+TUR,4rjsyxn0rlbjggofvvpbmk8pc,İstanbulspor,1,Istanbulspor
+TUR,4idg23egrrvtrbgrg7p5x7bwf,Kasımpaşa,1,Kasimpasa
+TUR,c8ns6z3u8kxldv1zh1evu10rv,Kayserispor,1,Kayseri
+TUR,cw4lbdzlqqdvbkdkz00c9ye49,Konyaspor,1,Konyaspor
+TUR,f432akygffyamal3h6poig65t,Sivasspor,1,Sivasspor
+TUR,2yab38jdfl0gk2tei1mq40o06,Trabzonspor,1,Trabzonspor
+TUR,v0qx960sz1tq9mprlxrcnfl5,Ümraniyespor,1,Umraniyespor
+HRV,7vyubxg6fnmwwyo2nnyhp6j5d,Dinamo Zagreb,1,
+ISR,bglyqy0awtu6lzvpab390rir2,Maccabi Haifa,1,
+CZE,c6fx1460nlkawjgh67sp7a1hd,Viktoria Plzeň,1,
+CYP,2qg4xmt2ucl2o5osmurwagw5g,Apollon,1,
+XKX,cuzhkg1y2iv7fppnjldenfk2y,Ballkani,1,
+ROU,j9rqsuwsz35jx5drlh5f629w,CFR Cluj,1,
+SRB,c0d1qca7kz0fi0ypx7aw4nusc,Partizan,1,
+ISR,9ppjmek1r3tb9yddebneaxj7i,Hapoel Be'er Sheva,1,
+POL,duvz7klp081jpg8fx5nze7ks7,Lech Poznań,1,
+ARM,6a568y7uc4jumukhqo96lb5du,Pyunik,1,
+LVA,d592cup61qbgth2xkawbo7qp1,Rīgas FS,1,
+UKR,b906tqcttb0x1tnbe0zobz8tm,Dnipro-1,1,
+GBR,51xekmm31jztuvdliya7idg5d,Shamrock Rovers,1,
+CZE,8kpapuorr6hf0vosnovbreqqd,Slavia Praha,1,
+SVK,cmj1019uptq8i042n5y16itbd,Slovan Bratislava,1,
+CZE,bp5x8iw8pstucx6s4iqht6xqf,Slovácko,1,
+ROU,1bgj5g7kgr54058unwjx90tii,CSA Steaua Bucureşti,1,
+LTU,tqszs9t9rn0xzxxjuhr2ujob,Žalgiris,1,
+CYP,q4y48hs70h74p3waaxxjtdu5,AEK Larnaca,1,
+UKR,7lgvcey3svf6k22vg5svdztmg,Dynamo Kyiv,1,
+MDA,dcx559ojp4lgxwc9z9xxbzgre,Sheriff,1,
+AZE,dz0fc3304a30bzm9lht0bhpqt,Qarabağ,1,
+HUN,b3o0wckz4w3fusytybpgxftgm,Ferencváros,1,
+FIN,303582z192rnbr2x28o2t7u38,HJK,1,
+BGR,6uhzci0mwrzly1e4trka6k4ea,Ludogorets,1,
+CYP,1pf6zmsueuc9tr64ql67gynqc,Omonia Nicosia,1,
+SRB,81lpho34qr3dad0xzalq0abja,Crvena Zvezda,1,
+UKR,cf8plcmeniaen0fc5emyb5j93,Shakhtar Donetsk,1,
+USA,2iwybwokic7nmr1t33abdbjoq,Phoenix Rising,1,
+USA,c9xffml4i7ihblp1qhus9w3fu,Birmingham Legion,1,
+USA,e3k8yw2rbmphyfu5htn4yi5jk,Charleston Battery,1,
+USA,ak0rmms5xl49w57i2rvid1tk9,Colorado Springs,1,
+USA,b1rpb2ox52uxcmjrsnqd95pk5,Detroit City,1,
+USA,5h878vnmkbuy2ummddprusxgq,El Paso Locomotive,1,
+USA,2n3wgr89m7jl8tmioemit2pgq,Hartford Athletic,1,
+USA,8cpjplodpphtkbt0hq8sr8mqs,Indy Eleven,1,
+USA,7c9knuwazz9k9449u5rnuuy5m,Las Vegas Lights,1,
+USA,5x54jbfk11lrsmipgsx7cdbai,Loudoun United,1,
+USA,83cpn99fh7ulkwe8nezy8a3mx,Louisville City,1,
+USA,97qwp1m762ftf33iuydwtom0a,Memphis 901,1,
+USA,bu5w8wprynlj9mvphvy8sd94f,Miami FC,2,
+USA,bu5w8wprynlj9mvphvy8sd94f,Miami,2,
+USA,kfq8fhwnmycbtad1u0fyefx0,Monterey Bay,1,
+USA,bk3zg8yaj5uoqhxzwons3bo8a,New Mexico United,1,
+USA,b5l2e3csycjb8twvq9ek0j5gq,Oakland Roots,1,
+USA,cf5r1qpotp6n5i3vdchsp2en1,Orange County SC,1,
+USA,224tl8u2smnbyliroayk69nt0,Pittsburgh Riverhounds,1,
+USA,6xgplwvdubz72bfz2ih5diyjv,Rio Grande Valley,1,
+USA,7neuneh44n9rtsfsh6r0sb9no,Sacramento Republic,1,
+USA,87c66ubwpzykovmkaf1t46bis,San Antonio,1,
+USA,31em58uxag8i9r5c13jitf9ey,San Diego Loyal,1,
+USA,5qfq6cwtrgzd2szijivns7rjl,Tampa Bay Rowdies,1,
+USA,aj8ytsr2ap33tod0hd8ofzaw9,FC Tulsa,1,
