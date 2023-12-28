@@ -12,13 +12,6 @@ create_or_update_club_rankings_release(
   file_name='opta-club-rankings.csv'
 )
 
-ft8_df = pd.read_csv('https://projects.fivethirtyeight.com/soccer-api/club/spi_global_rankings.csv')
-ft8_df = add_timestamp_cols(ft8_df, current_time)
-create_or_update_club_rankings_release(
-  df=ft8_df,
-  file_name='fivethirtyeight-club-rankings.csv'
-)
-
 clubelo_date_str = datetime.strftime(datetime.today(), '%Y-%m-%d')
 clubelo_url = f'http://api.clubelo.com/{clubelo_date_str}'
 clubelo_df = pd.read_csv(clubelo_url)
