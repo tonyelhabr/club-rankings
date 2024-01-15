@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This repo scrapes and stores the club rankings published by [Opta Analyst](https://theanalyst.com/na/2023/03/who-are-the-best-football-team-in-the-world-opta-power-rankings/) and [Club Elo](http://clubelo.com/). ([FiveThirtyEight](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings) is no longer scraped since it was FiveThirtyEight is effectively defunct.)
+This repo scrapes and stores the club rankings published by [Opta Analyst](https://theanalyst.com/na/2023/03/who-are-the-best-football-team-in-the-world-opta-power-rankings/) and [Club Elo](http://clubelo.com/). ([FiveThirtyEight](https://projects.fivethirtyeight.com/soccer-predictions/global-club-rankings) is no longer scraped since it is effectively defunct.)
 
 The data is automatically pushed to [Github releases](https://github.com/tonyelhabr/releases).
 
