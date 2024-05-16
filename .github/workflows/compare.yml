@@ -7,7 +7,7 @@ on:
 
 jobs:
   compare:
-    runs-on: macOS-latest
+    runs-on: windows-latest
     env:
       GITHUB_PAT: ${{ secrets.CLUB_RANKINGS_TOKEN }}
       RENV_PATHS_ROOT: ~/.local/share/renv
