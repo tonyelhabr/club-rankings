@@ -1,0 +1,25 @@
+[tool.poetry]
+name = "club-rankings"
+version = "0.1.0"
+description = ""
+authors = ["Tony ElHabr <anthonyelhabr@gmail.com>"]
+readme = "README.md"
+
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+beautifulsoup4 = "^4.12.2"
+chromedriver-autoinstaller = "^0.6.2"
+pandas = "^2.1.2"
+pygithub = "^2.1.1"
+requests = "^2.31.0"
+selenium = "^4.14.0"
+
+[tool.poetry.group.dev.dependencies]
+jupyter = "^1.0.0"
+ipykernel = "^6.26.0"
+black = "^23.10.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

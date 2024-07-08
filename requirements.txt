@@ -1,6 +1,0 @@
-bs4==0.0.1
-chromedriver-autoinstaller==0.4.0
-pandas==1.5.3
-PyGithub==1.58.1
-requests==2.28.2
-selenium==4.8.3
