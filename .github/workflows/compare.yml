@@ -2,7 +2,7 @@ name: Compare club rankings
 
 on:
   schedule:
-    - cron: '45 10 * * *'
+    - cron: '45 10 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -14,7 +14,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
-      - name: Setup R 
+      - name: Setup R
         uses: r-lib/actions/setup-r@v2
       - name: Cache packages
         uses: actions/cache@v3
