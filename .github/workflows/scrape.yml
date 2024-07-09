@@ -57,5 +57,5 @@ jobs:
 
       - name: Run script
         run: |
-          poetry run python scripts/0-scrape-venues.py
+          poetry run python src/scrape.py
 
