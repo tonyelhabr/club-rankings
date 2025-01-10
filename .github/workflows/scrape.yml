@@ -51,9 +51,14 @@ jobs:
       - name: Install project
         run: poetry install --no-interaction
 
-      ## Needs this because caching may create a mismatch for chromedriver_autoinstaller
-      - name: Remove previous chrome instances on runner
-        run: sudo apt purge google-chrome-stable
+      - name: Install Chrome
+        run: |
+          sudo apt update
+          sudo apt install -y google-chrome-stable libgbm-dev libgtk-3-0 libx11-xcb1
+
+      - name: Check Chrome version
+        run: google-chrome --version
+
 
       - name: Run script
         run: |
